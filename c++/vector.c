@@ -1,6 +1,7 @@
 // vector
 vector<int> arr;
 arr.push_back(10);
+arr.pop_back();
 
 vector<int> arr(10); // 10 size
 arr[2]=10;

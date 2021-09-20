@@ -22,4 +22,3 @@ static bool compare(int &a, int &b) {
 for(auto x:map) {
     re.push_back(x.second);
 }
-x
