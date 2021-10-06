@@ -1,0 +1,19 @@
+console.log(square(5)); 
+var square = function(n) { 
+  return n * n;  
+}
+
+console.log(dummy);
+let dummy = 35;
+
+console.log(dummy1);
+var dummy1 = 24;
+
+console.log(dummy2);
+const dummy2 = 45;
+
+console.log(square(5));
+function square(n) { 
+  return n * n;  
+}
+

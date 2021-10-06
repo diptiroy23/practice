@@ -1,0 +1,10 @@
+var callFunction = {
+    count : 1,
+    print: function(name) {
+        console.log(this.count)
+        for(let i = 0; i< this.count; i++) {
+            console.log(name)
+        }
+    }
+}
+
