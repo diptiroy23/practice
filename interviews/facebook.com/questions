@@ -1,0 +1,22 @@
+1. Given two Identical DOM tress A and B, check if a Node in A also exists in B
+2. data structure problem with a front end slant
+3. Given a tree with specific nodes to visit, traverse another tree with the same structure and visit the nodes in same positions.
+You are given an array of N elements in the form "property1: value1; property2: value2;...;propertyX: valueX;" for some some N and any X. There is also another array of M elements of the form "property: value". You are supposed to write an algorithm to remove every element in the N length array that has a "property: value" pair in the M length array.You must come up with a solution that solves the problem in less than O(NM) time.
+Flatten Array,
+ In JavaScript, write a function that takes an array as input that can contain both ints and more arrays (which can also contain an array or int) and return the flattened array.
+
+ex. [1, [2, [ [3, 4], 5], 6]] => [1, 2, 3, 4, 5, 6] 
+Flatten array. This array can have multiple types: {}, [], "", undefined, null, 123 are all valid types inside the array.
+Given a grid of characters output a decoded message. The message for the following would be IROCKA. (diagonally down right and diagonally up right if you can't go further .. you continue doing this)
+
+Given two identical DOM trees (not the same one), and a node from one of them find the node in the other one.
+Implement a simple store class with set(Node, value), get(Node) and has(Node) methods, which store a given Nodes with corresponding values.
+Given 2 identical DOM trees (but not equal) and one element of the first DOM tree, how would you find this element in the second DOM tree?
+(Phone) Given two identical DOM tree structures, A and B, and a node from A, find the corresponding node in B.
+
+I B C A L K A
+D R F C A E A
+G H O E L A D
+
+Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops.
+

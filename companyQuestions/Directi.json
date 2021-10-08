@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1524",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "href": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1535",
+    "title": "Find the Winner of an Array Game",
+    "href": "https://leetcode.com/problems/find-the-winner-of-an-array-game",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1542",
+    "title": "Find Longest Awesome Substring",
+    "href": "https://leetcode.com/problems/find-longest-awesome-substring",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1584",
+    "title": "Min Cost to Connect All Points",
+    "href": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  }
+]

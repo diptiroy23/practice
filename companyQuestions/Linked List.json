@@ -1,0 +1,275 @@
+[
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "href": "https://leetcode.com/problems/add-two-numbers",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "19",
+    "title": "Remove Nth Node From End of List",
+    "href": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "frequency": "43.3084%"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "href": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "frequency": "86.8216%"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "href": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "frequency": "81.3814%"
+  },
+  {
+    "id": "24",
+    "title": "Swap Nodes in Pairs",
+    "href": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "frequency": "41.5214%"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "href": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "frequency": "59.7762%"
+  },
+  {
+    "id": "61",
+    "title": "Rotate List",
+    "href": "https://leetcode.com/problems/rotate-list",
+    "difficulty": "Medium",
+    "frequency": "14.9372%"
+  },
+  {
+    "id": "82",
+    "title": "Remove Duplicates from Sorted List II",
+    "href": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "difficulty": "Medium",
+    "frequency": "25.7764%"
+  },
+  {
+    "id": "83",
+    "title": "Remove Duplicates from Sorted List",
+    "href": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "frequency": "43.16%"
+  },
+  {
+    "id": "86",
+    "title": "Partition List",
+    "href": "https://leetcode.com/problems/partition-list",
+    "difficulty": "Medium",
+    "frequency": "42.1882%"
+  },
+  {
+    "id": "92",
+    "title": "Reverse Linked List II",
+    "href": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "difficulty": "Medium",
+    "frequency": "55.3134%"
+  },
+  {
+    "id": "109",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "href": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "difficulty": "Medium",
+    "frequency": "33.9794%"
+  },
+  {
+    "id": "138",
+    "title": "Copy List with Random Pointer",
+    "href": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "difficulty": "Medium",
+    "frequency": "61.7139%"
+  },
+  {
+    "id": "141",
+    "title": "Linked List Cycle",
+    "href": "https://leetcode.com/problems/linked-list-cycle",
+    "difficulty": "Easy",
+    "frequency": "34.3975%"
+  },
+  {
+    "id": "142",
+    "title": "Linked List Cycle II",
+    "href": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "frequency": "24.0455%"
+  },
+  {
+    "id": "143",
+    "title": "Reorder List",
+    "href": "https://leetcode.com/problems/reorder-list",
+    "difficulty": "Medium",
+    "frequency": "47.1021%"
+  },
+  {
+    "id": "147",
+    "title": "Insertion Sort List",
+    "href": "https://leetcode.com/problems/insertion-sort-list",
+    "difficulty": "Medium",
+    "frequency": "5.48192%"
+  },
+  {
+    "id": "148",
+    "title": "Sort List",
+    "href": "https://leetcode.com/problems/sort-list",
+    "difficulty": "Medium",
+    "frequency": "30.5895%"
+  },
+  {
+    "id": "160",
+    "title": "Intersection of Two Linked Lists",
+    "href": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "frequency": "33.2644%"
+  },
+  {
+    "id": "203",
+    "title": "Remove Linked List Elements",
+    "href": "https://leetcode.com/problems/remove-linked-list-elements",
+    "difficulty": "Easy",
+    "frequency": "45.4669%"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "href": "https://leetcode.com/problems/reverse-linked-list",
+    "difficulty": "Easy",
+    "frequency": "74.8923%"
+  },
+  {
+    "id": "234",
+    "title": "Palindrome Linked List",
+    "href": "https://leetcode.com/problems/palindrome-linked-list",
+    "difficulty": "Easy",
+    "frequency": "57.5181%"
+  },
+  {
+    "id": "237",
+    "title": "Delete Node in a Linked List",
+    "href": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+    "difficulty": "Easy",
+    "frequency": "12.4737%"
+  },
+  {
+    "id": "328",
+    "title": "Odd Even Linked List",
+    "href": "https://leetcode.com/problems/odd-even-linked-list",
+    "difficulty": "Medium",
+    "frequency": "18.0939%"
+  },
+  {
+    "id": "369",
+    "title": "Plus One Linked List",
+    "href": "https://leetcode.com/problems/plus-one-linked-list",
+    "difficulty": "Medium",
+    "frequency": "5.3233%"
+  },
+  {
+    "id": "379",
+    "title": "Design Phone Directory",
+    "href": "https://leetcode.com/problems/design-phone-directory",
+    "difficulty": "Medium",
+    "frequency": "4.96288%"
+  },
+  {
+    "id": "445",
+    "title": "Add Two Numbers II",
+    "href": "https://leetcode.com/problems/add-two-numbers-ii",
+    "difficulty": "Medium",
+    "frequency": "55.3019%"
+  },
+  {
+    "id": "725",
+    "title": "Split Linked List in Parts",
+    "href": "https://leetcode.com/problems/split-linked-list-in-parts",
+    "difficulty": "Medium",
+    "frequency": "0.828127%"
+  },
+  {
+    "id": "426",
+    "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+    "href": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "difficulty": "Medium",
+    "frequency": "29.9856%"
+  },
+  {
+    "id": "430",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "href": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "difficulty": "Medium",
+    "frequency": "39.5829%"
+  },
+  {
+    "id": "817",
+    "title": "Linked List Components",
+    "href": "https://leetcode.com/problems/linked-list-components",
+    "difficulty": "Medium",
+    "frequency": "10.2788%"
+  },
+  {
+    "id": "707",
+    "title": "Design Linked List",
+    "href": "https://leetcode.com/problems/design-linked-list",
+    "difficulty": "Medium",
+    "frequency": "9.85886%"
+  },
+  {
+    "id": "708",
+    "title": "Insert into a Sorted Circular Linked List",
+    "href": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+    "difficulty": "Medium",
+    "frequency": "16.327%"
+  },
+  {
+    "id": "876",
+    "title": "Middle of the Linked List",
+    "href": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "frequency": "29.1715%"
+  },
+  {
+    "id": "1019",
+    "title": "Next Greater Node In Linked List",
+    "href": "https://leetcode.com/problems/next-greater-node-in-linked-list",
+    "difficulty": "Medium",
+    "frequency": "22.5879%"
+  },
+  {
+    "id": "1171",
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "href": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+    "difficulty": "Medium",
+    "frequency": "7.52573%"
+  },
+  {
+    "id": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "href": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "frequency": "21.9958%"
+  },
+  {
+    "id": "1367",
+    "title": "Linked List in Binary Tree",
+    "href": "https://leetcode.com/problems/linked-list-in-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "2.45449%"
+  },
+  {
+    "id": "1474",
+    "title": "Delete N Nodes After M Nodes of a Linked List",
+    "href": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list",
+    "difficulty": "Easy",
+    "frequency": "1.04287%"
+  }
+]

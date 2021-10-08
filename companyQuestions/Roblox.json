@@ -1,0 +1,254 @@
+[
+  {
+    "id": "811",
+    "title": "Subdomain Visit Count",
+    "href": "https://leetcode.com/problems/subdomain-visit-count",
+    "difficulty": "Easy",
+    "frequency": "100%"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "href": "https://leetcode.com/problems/basic-calculator",
+    "difficulty": "Hard",
+    "frequency": "53.2913%"
+  },
+  {
+    "id": "770",
+    "title": "Basic Calculator IV",
+    "href": "https://leetcode.com/problems/basic-calculator-iv",
+    "difficulty": "Hard",
+    "frequency": "76.6457%"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "href": "https://leetcode.com/problems/longest-palindromic-substring",
+    "difficulty": "Medium",
+    "frequency": "0.325945%"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "frequency": "1.40618%"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "href": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "frequency": "0.139415%"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "href": "https://leetcode.com/problems/course-schedule-ii",
+    "difficulty": "Medium",
+    "frequency": "0.259173%"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "href": "https://leetcode.com/problems/lru-cache",
+    "difficulty": "Medium",
+    "frequency": "2.37728%"
+  },
+  {
+    "id": "829",
+    "title": "Consecutive Numbers Sum",
+    "href": "https://leetcode.com/problems/consecutive-numbers-sum",
+    "difficulty": "Hard",
+    "frequency": "40.8871%"
+  },
+  {
+    "id": "1163",
+    "title": "Last Substring in Lexicographical Order",
+    "href": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "difficulty": "Hard",
+    "frequency": "25.9815%"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "href": "https://leetcode.com/problems/two-sum",
+    "difficulty": "Easy",
+    "frequency": "0.0276046%"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "href": "https://leetcode.com/problems/sliding-window-maximum",
+    "difficulty": "Hard",
+    "frequency": "2.1268%"
+  },
+  {
+    "id": "647",
+    "title": "Palindromic Substrings",
+    "href": "https://leetcode.com/problems/palindromic-substrings",
+    "difficulty": "Medium",
+    "frequency": "1.5061%"
+  },
+  {
+    "id": "1248",
+    "title": "Count Number of Nice Subarrays",
+    "href": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "difficulty": "Medium",
+    "frequency": "7.39493%"
+  },
+  {
+    "id": "1282",
+    "title": "Group the People Given the Group Size They Belong To",
+    "href": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "href": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "frequency": "3.73464%"
+  },
+  {
+    "id": "1280",
+    "title": "Students and Examinations",
+    "href": "https://leetcode.com/problems/students-and-examinations",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1297",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "href": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "difficulty": "Medium",
+    "frequency": "18.6214%"
+  },
+  {
+    "id": "1364",
+    "title": "Number of Trusted Contacts of a Customer",
+    "href": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1328",
+    "title": "Break a Palindrome",
+    "href": "https://leetcode.com/problems/break-a-palindrome",
+    "difficulty": "Medium",
+    "frequency": "5.15646%"
+  },
+  {
+    "id": "718",
+    "title": "Maximum Length of Repeated Subarray",
+    "href": "https://leetcode.com/problems/maximum-length-of-repeated-subarray",
+    "difficulty": "Medium",
+    "frequency": "2.20691%"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "href": "https://leetcode.com/problems/number-of-islands",
+    "difficulty": "Medium",
+    "frequency": "0.220012%"
+  },
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "href": "https://leetcode.com/problems/valid-sudoku",
+    "difficulty": "Medium",
+    "frequency": "6.34076%"
+  },
+  {
+    "id": "37",
+    "title": "Sudoku Solver",
+    "href": "https://leetcode.com/problems/sudoku-solver",
+    "difficulty": "Hard",
+    "frequency": "1.45097%"
+  },
+  {
+    "id": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "href": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "0.177886%"
+  },
+  {
+    "id": "1552",
+    "title": "Magnetic Force Between Two Balls",
+    "href": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "href": "https://leetcode.com/problems/course-schedule",
+    "difficulty": "Medium",
+    "frequency": "0.800198%"
+  },
+  {
+    "id": "1472",
+    "title": "Design Browser History",
+    "href": "https://leetcode.com/problems/design-browser-history",
+    "difficulty": "Medium",
+    "frequency": "4.92428%"
+  },
+  {
+    "id": "256",
+    "title": "Paint House",
+    "href": "https://leetcode.com/problems/paint-house",
+    "difficulty": "Medium",
+    "frequency": "21.6902%"
+  },
+  {
+    "id": "881",
+    "title": "Boats to Save People",
+    "href": "https://leetcode.com/problems/boats-to-save-people",
+    "difficulty": "Medium",
+    "frequency": "15.4815%"
+  },
+  {
+    "id": "931",
+    "title": "Minimum Falling Path Sum",
+    "href": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "frequency": "1.35439%"
+  },
+  {
+    "id": "1289",
+    "title": "Minimum Falling Path Sum II",
+    "href": "https://leetcode.com/problems/minimum-falling-path-sum-ii",
+    "difficulty": "Hard",
+    "frequency": "7.20498%"
+  },
+  {
+    "id": "1209",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "href": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "difficulty": "Medium",
+    "frequency": "14.071%"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "href": "https://leetcode.com/problems/roman-to-integer",
+    "difficulty": "Easy",
+    "frequency": "1.50712%"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "href": "https://leetcode.com/problems/meeting-rooms-ii",
+    "difficulty": "Medium",
+    "frequency": "0.404204%"
+  },
+  {
+    "id": "1481",
+    "title": "Least Number of Unique Integers after K Removals",
+    "href": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "difficulty": "Medium",
+    "frequency": "11.0295%"
+  }
+]

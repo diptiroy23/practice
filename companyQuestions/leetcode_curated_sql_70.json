@@ -1,0 +1,492 @@
+[
+  {
+    "id": "1270",
+    "title": "All People Report to the Given Manager",
+    "href": "https://leetcode.com/problems/all-people-report-to-the-given-manager",
+    "difficulty": "Medium",
+    "frequency": "100px"
+  },
+  {
+    "id": "615",
+    "title": "Average Salary: Departments VS Company",
+    "href": "https://leetcode.com/problems/average-salary-departments-vs-company",
+    "difficulty": "Hard",
+    "frequency": "91.5378px"
+  },
+  {
+    "id": "1384",
+    "title": "Total Sales Amount by Year",
+    "href": "https://leetcode.com/problems/total-sales-amount-by-year",
+    "difficulty": "Hard",
+    "frequency": "82.857px"
+  },
+  {
+    "id": "1517",
+    "title": "Find Users With Valid E-Mails",
+    "href": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "difficulty": "Easy",
+    "frequency": "74.1762px"
+  },
+  {
+    "id": "1132",
+    "title": "Reported Posts II",
+    "href": "https://leetcode.com/problems/reported-posts-ii",
+    "difficulty": "Medium",
+    "frequency": "72.9641px"
+  },
+  {
+    "id": "1194",
+    "title": "Tournament Winners",
+    "href": "https://leetcode.com/problems/tournament-winners",
+    "difficulty": "Hard",
+    "frequency": "67.9543px"
+  },
+  {
+    "id": "1173",
+    "title": "Immediate Food Delivery I",
+    "href": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "difficulty": "Easy",
+    "frequency": "60.1512px"
+  },
+  {
+    "id": "1412",
+    "title": "Find the Quiet Students in All Exams",
+    "href": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams",
+    "difficulty": "Hard",
+    "frequency": "54.5702px"
+  },
+  {
+    "id": "610",
+    "title": "Triangle Judgement",
+    "href": "https://leetcode.com/problems/triangle-judgement",
+    "difficulty": "Easy",
+    "frequency": "52.6684px"
+  },
+  {
+    "id": "1098",
+    "title": "Unpopular Books",
+    "href": "https://leetcode.com/problems/unpopular-books",
+    "difficulty": "Medium",
+    "frequency": "44.6542px"
+  },
+  {
+    "id": "1393",
+    "title": "Capital Gain/Loss",
+    "href": "https://leetcode.com/problems/capital-gainloss",
+    "difficulty": "Medium",
+    "frequency": "39.8682px"
+  },
+  {
+    "id": "1445",
+    "title": "Apples & Oranges",
+    "href": "https://leetcode.com/problems/apples-oranges",
+    "difficulty": "Medium",
+    "frequency": "32.6689px"
+  },
+  {
+    "id": "1341",
+    "title": "Movie Rating",
+    "href": "https://leetcode.com/problems/movie-rating",
+    "difficulty": "Medium",
+    "frequency": "31.3103px"
+  },
+  {
+    "id": "1084",
+    "title": "Sales Analysis III",
+    "href": "https://leetcode.com/problems/sales-analysis-iii",
+    "difficulty": "Easy",
+    "frequency": "31.024px"
+  },
+  {
+    "id": "1212",
+    "title": "Team Scores in Football Tournament",
+    "href": "https://leetcode.com/problems/team-scores-in-football-tournament",
+    "difficulty": "Medium",
+    "frequency": "29.5643px"
+  },
+  {
+    "id": "1350",
+    "title": "Students With Invalid Departments",
+    "href": "https://leetcode.com/problems/students-with-invalid-departments",
+    "difficulty": "Easy",
+    "frequency": "26.1836px"
+  },
+  {
+    "id": "1327",
+    "title": "List the Products Ordered in a Period",
+    "href": "https://leetcode.com/problems/list-the-products-ordered-in-a-period",
+    "difficulty": "Easy",
+    "frequency": "22.1557px"
+  },
+  {
+    "id": "603",
+    "title": "Consecutive Available Seats",
+    "href": "https://leetcode.com/problems/consecutive-available-seats",
+    "difficulty": "Easy",
+    "frequency": "21.887px"
+  },
+  {
+    "id": "570",
+    "title": "Managers with at Least 5 Direct Reports",
+    "href": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "difficulty": "Medium",
+    "frequency": "18.9655px"
+  },
+  {
+    "id": "1083",
+    "title": "Sales Analysis II",
+    "href": "https://leetcode.com/problems/sales-analysis-ii",
+    "difficulty": "Easy",
+    "frequency": "18.5751px"
+  },
+  {
+    "id": "534",
+    "title": "Game Play Analysis III",
+    "href": "https://leetcode.com/problems/game-play-analysis-iii",
+    "difficulty": "Medium",
+    "frequency": "18.518px"
+  },
+  {
+    "id": "1321",
+    "title": "Restaurant Growth",
+    "href": "https://leetcode.com/problems/restaurant-growth",
+    "difficulty": "Medium",
+    "frequency": "16.5599px"
+  },
+  {
+    "id": "1303",
+    "title": "Find the Team Size",
+    "href": "https://leetcode.com/problems/find-the-team-size",
+    "difficulty": "Easy",
+    "frequency": "15.3001px"
+  },
+  {
+    "id": "1164",
+    "title": "Product Price at a Given Date",
+    "href": "https://leetcode.com/problems/product-price-at-a-given-date",
+    "difficulty": "Medium",
+    "frequency": "15.2678px"
+  },
+  {
+    "id": "1068",
+    "title": "Product Sales Analysis I",
+    "href": "https://leetcode.com/problems/product-sales-analysis-i",
+    "difficulty": "Easy",
+    "frequency": "15.2613px"
+  },
+  {
+    "id": "1421",
+    "title": "NPV Queries",
+    "href": "https://leetcode.com/problems/npv-queries",
+    "difficulty": "Medium",
+    "frequency": "14.7621px"
+  },
+  {
+    "id": "1204",
+    "title": "Last Person to Fit in the Elevator",
+    "href": "https://leetcode.com/problems/last-person-to-fit-in-the-elevator",
+    "difficulty": "Medium",
+    "frequency": "14.6276px"
+  },
+  {
+    "id": "608",
+    "title": "Tree Node",
+    "href": "https://leetcode.com/problems/tree-node",
+    "difficulty": "Medium",
+    "frequency": "14.5217px"
+  },
+  {
+    "id": "1126",
+    "title": "Active Businesses",
+    "href": "https://leetcode.com/problems/active-businesses",
+    "difficulty": "Medium",
+    "frequency": "13.0992px"
+  },
+  {
+    "id": "580",
+    "title": "Count Student Number in Departments",
+    "href": "https://leetcode.com/problems/count-student-number-in-departments",
+    "difficulty": "Medium",
+    "frequency": "11.0137px"
+  },
+  {
+    "id": "1077",
+    "title": "Project Employees III",
+    "href": "https://leetcode.com/problems/project-employees-iii",
+    "difficulty": "Medium",
+    "frequency": "10.9387px"
+  },
+  {
+    "id": "1141",
+    "title": "User Activity for the Past 30 Days I",
+    "href": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+    "difficulty": "Easy",
+    "frequency": "10.8646px"
+  },
+  {
+    "id": "1112",
+    "title": "Highest Grade For Each Student",
+    "href": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "difficulty": "Medium",
+    "frequency": "10.8207px"
+  },
+  {
+    "id": "613",
+    "title": "Shortest Distance in a Line",
+    "href": "https://leetcode.com/problems/shortest-distance-in-a-line",
+    "difficulty": "Easy",
+    "frequency": "10.6767px"
+  },
+  {
+    "id": "1045",
+    "title": "Customers Who Bought All Products",
+    "href": "https://leetcode.com/problems/customers-who-bought-all-products",
+    "difficulty": "Medium",
+    "frequency": "10.4952px"
+  },
+  {
+    "id": "550",
+    "title": "Game Play Analysis IV",
+    "href": "https://leetcode.com/problems/game-play-analysis-iv",
+    "difficulty": "Medium",
+    "frequency": "9.77902px"
+  },
+  {
+    "id": "1484",
+    "title": "Group Sold Products By The Date",
+    "href": "https://leetcode.com/problems/group-sold-products-by-the-date",
+    "difficulty": "Easy",
+    "frequency": "9.74341px"
+  },
+  {
+    "id": "1251",
+    "title": "Average Selling Price",
+    "href": "https://leetcode.com/problems/average-selling-price",
+    "difficulty": "Easy",
+    "frequency": "8.54974px"
+  },
+  {
+    "id": "1050",
+    "title": "Actors and Directors Who Cooperated At Least Three Times",
+    "href": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times",
+    "difficulty": "Easy",
+    "frequency": "8.26789px"
+  },
+  {
+    "id": "512",
+    "title": "Game Play Analysis II",
+    "href": "https://leetcode.com/problems/game-play-analysis-ii",
+    "difficulty": "Easy",
+    "frequency": "7.82457px"
+  },
+  {
+    "id": "586",
+    "title": "Customer Placing the Largest Number of Orders",
+    "href": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders",
+    "difficulty": "Easy",
+    "frequency": "7.24536px"
+  },
+  {
+    "id": "1532",
+    "title": "The Most Recent Three Orders",
+    "href": "https://leetcode.com/problems/the-most-recent-three-orders",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1511",
+    "title": "Customer Order Frequency",
+    "href": "https://leetcode.com/problems/customer-order-frequency",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1501",
+    "title": "Countries You Can Safely Invest In",
+    "href": "https://leetcode.com/problems/countries-you-can-safely-invest-in",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1495",
+    "title": "Friendly Movies Streamed Last Month",
+    "href": "https://leetcode.com/problems/friendly-movies-streamed-last-month",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1468",
+    "title": "Calculate Salaries",
+    "href": "https://leetcode.com/problems/calculate-salaries",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1440",
+    "title": "Evaluate Boolean Expression",
+    "href": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1407",
+    "title": "Top Travellers",
+    "href": "https://leetcode.com/problems/top-travellers",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "href": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1369",
+    "title": "Get the Second Most Recent Activity",
+    "href": "https://leetcode.com/problems/get-the-second-most-recent-activity",
+    "difficulty": "Hard",
+    "frequency": "0px"
+  },
+  {
+    "id": "1336",
+    "title": "Number of Transactions per Visit",
+    "href": "https://leetcode.com/problems/number-of-transactions-per-visit",
+    "difficulty": "Hard",
+    "frequency": "0px"
+  },
+  {
+    "id": "1322",
+    "title": "Ads Performance",
+    "href": "https://leetcode.com/problems/ads-performance",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1308",
+    "title": "Running Total for Different Genders",
+    "href": "https://leetcode.com/problems/running-total-for-different-genders",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1294",
+    "title": "Weather Type in Each Country",
+    "href": "https://leetcode.com/problems/weather-type-in-each-country",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1285",
+    "title": "Find the Start and End Number of Continuous Ranges",
+    "href": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1280",
+    "title": "Students and Examinations",
+    "href": "https://leetcode.com/problems/students-and-examinations",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1264",
+    "title": "Page Recommendations",
+    "href": "https://leetcode.com/problems/page-recommendations",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1225",
+    "title": "Report Contiguous Dates",
+    "href": "https://leetcode.com/problems/report-contiguous-dates",
+    "difficulty": "Hard",
+    "frequency": "0px"
+  },
+  {
+    "id": "1205",
+    "title": "Monthly Transactions II",
+    "href": "https://leetcode.com/problems/monthly-transactions-ii",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1193",
+    "title": "Monthly Transactions I",
+    "href": "https://leetcode.com/problems/monthly-transactions-i",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1149",
+    "title": "Article Views II",
+    "href": "https://leetcode.com/problems/article-views-ii",
+    "difficulty": "Medium",
+    "frequency": "0px"
+  },
+  {
+    "id": "1148",
+    "title": "Article Views I",
+    "href": "https://leetcode.com/problems/article-views-i",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1113",
+    "title": "Reported Posts",
+    "href": "https://leetcode.com/problems/reported-posts",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1097",
+    "title": "Game Play Analysis V",
+    "href": "https://leetcode.com/problems/game-play-analysis-v",
+    "difficulty": "Hard",
+    "frequency": "0px"
+  },
+  {
+    "id": "511",
+    "title": "Game Play Analysis I",
+    "href": "https://leetcode.com/problems/game-play-analysis-i",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1082",
+    "title": "Sales Analysis I",
+    "href": "https://leetcode.com/problems/sales-analysis-i",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1076",
+    "title": "Project Employees II",
+    "href": "https://leetcode.com/problems/project-employees-ii",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "1075",
+    "title": "Project Employees I",
+    "href": "https://leetcode.com/problems/project-employees-i",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "607",
+    "title": "Sales Person",
+    "href": "https://leetcode.com/problems/sales-person",
+    "difficulty": "Easy",
+    "frequency": "0px"
+  },
+  {
+    "id": "571",
+    "title": "Find Median Given Frequency of Numbers",
+    "href": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+    "difficulty": "Hard",
+    "frequency": "0px"
+  }
+]

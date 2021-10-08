@@ -1,0 +1,16 @@
+[
+  {
+    "id": "382",
+    "title": "Linked List Random Node",
+    "href": "https://leetcode.com/problems/linked-list-random-node",
+    "difficulty": "Medium",
+    "frequency": "50%"
+  },
+  {
+    "id": "398",
+    "title": "Random Pick Index",
+    "href": "https://leetcode.com/problems/random-pick-index",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  }
+]

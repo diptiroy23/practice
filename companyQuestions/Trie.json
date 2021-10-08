@@ -1,0 +1,121 @@
+[
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "href": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "difficulty": "Medium",
+    "frequency": "48.8247%"
+  },
+  {
+    "id": "211",
+    "title": "Design Add and Search Words Data Structure",
+    "href": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "difficulty": "Medium",
+    "frequency": "75.6875%"
+  },
+  {
+    "id": "212",
+    "title": "Word Search II",
+    "href": "https://leetcode.com/problems/word-search-ii",
+    "difficulty": "Hard",
+    "frequency": "70.3641%"
+  },
+  {
+    "id": "336",
+    "title": "Palindrome Pairs",
+    "href": "https://leetcode.com/problems/palindrome-pairs",
+    "difficulty": "Hard",
+    "frequency": "62.7877%"
+  },
+  {
+    "id": "421",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "href": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "difficulty": "Medium",
+    "frequency": "46.9694%"
+  },
+  {
+    "id": "425",
+    "title": "Word Squares",
+    "href": "https://leetcode.com/problems/word-squares",
+    "difficulty": "Hard",
+    "frequency": "5.95378%"
+  },
+  {
+    "id": "472",
+    "title": "Concatenated Words",
+    "href": "https://leetcode.com/problems/concatenated-words",
+    "difficulty": "Hard",
+    "frequency": "71.0575%"
+  },
+  {
+    "id": "642",
+    "title": "Design Search Autocomplete System",
+    "href": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "difficulty": "Hard",
+    "frequency": "50.8751%"
+  },
+  {
+    "id": "648",
+    "title": "Replace Words",
+    "href": "https://leetcode.com/problems/replace-words",
+    "difficulty": "Medium",
+    "frequency": "2.29613%"
+  },
+  {
+    "id": "676",
+    "title": "Implement Magic Dictionary",
+    "href": "https://leetcode.com/problems/implement-magic-dictionary",
+    "difficulty": "Medium",
+    "frequency": "12.9765%"
+  },
+  {
+    "id": "677",
+    "title": "Map Sum Pairs",
+    "href": "https://leetcode.com/problems/map-sum-pairs",
+    "difficulty": "Medium",
+    "frequency": "1.40575%"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "href": "https://leetcode.com/problems/top-k-frequent-words",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "720",
+    "title": "Longest Word in Dictionary",
+    "href": "https://leetcode.com/problems/longest-word-in-dictionary",
+    "difficulty": "Easy",
+    "frequency": "22.6569%"
+  },
+  {
+    "id": "745",
+    "title": "Prefix and Suffix Search",
+    "href": "https://leetcode.com/problems/prefix-and-suffix-search",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1065",
+    "title": "Index Pairs of a String",
+    "href": "https://leetcode.com/problems/index-pairs-of-a-string",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1023",
+    "title": "Camelcase Matching",
+    "href": "https://leetcode.com/problems/camelcase-matching",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1032",
+    "title": "Stream of Characters",
+    "href": "https://leetcode.com/problems/stream-of-characters",
+    "difficulty": "Hard",
+    "frequency": "11.3468%"
+  }
+]

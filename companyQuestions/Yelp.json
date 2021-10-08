@@ -1,0 +1,219 @@
+[
+  {
+    "id": "784",
+    "title": "Letter Case Permutation",
+    "href": "https://leetcode.com/problems/letter-case-permutation",
+    "difficulty": "Medium",
+    "frequency": "3.76357%"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "href": "https://leetcode.com/problems/group-anagrams",
+    "difficulty": "Medium",
+    "frequency": "15.8501%"
+  },
+  {
+    "id": "599",
+    "title": "Minimum Index Sum of Two Lists",
+    "href": "https://leetcode.com/problems/minimum-index-sum-of-two-lists",
+    "difficulty": "Easy",
+    "frequency": "100%"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "href": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "frequency": "6.40306%"
+  },
+  {
+    "id": "564",
+    "title": "Find the Closest Palindrome",
+    "href": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "difficulty": "Hard",
+    "frequency": "73.7699%"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "href": "https://leetcode.com/problems/two-sum",
+    "difficulty": "Easy",
+    "frequency": "4.20175%"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "href": "https://leetcode.com/problems/generate-parentheses",
+    "difficulty": "Medium",
+    "frequency": "4.19563%"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "href": "https://leetcode.com/problems/course-schedule",
+    "difficulty": "Medium",
+    "frequency": "4.18778%"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "href": "https://leetcode.com/problems/top-k-frequent-elements",
+    "difficulty": "Medium",
+    "frequency": "33.8217%"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "href": "https://leetcode.com/problems/meeting-rooms-ii",
+    "difficulty": "Medium",
+    "frequency": "6.2414%"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "href": "https://leetcode.com/problems/longest-common-prefix",
+    "difficulty": "Easy",
+    "frequency": "5.52129%"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "href": "https://leetcode.com/problems/reconstruct-itinerary",
+    "difficulty": "Medium",
+    "frequency": "42.2217%"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "href": "https://leetcode.com/problems/merge-intervals",
+    "difficulty": "Medium",
+    "frequency": "33.4848%"
+  },
+  {
+    "id": "126",
+    "title": "Word Ladder II",
+    "href": "https://leetcode.com/problems/word-ladder-ii",
+    "difficulty": "Hard",
+    "frequency": "4.73081%"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "frequency": "2.48864%"
+  },
+  {
+    "id": "218",
+    "title": "The Skyline Problem",
+    "href": "https://leetcode.com/problems/the-skyline-problem",
+    "difficulty": "Hard",
+    "frequency": "12.2786%"
+  },
+  {
+    "id": "127",
+    "title": "Word Ladder",
+    "href": "https://leetcode.com/problems/word-ladder",
+    "difficulty": "Medium",
+    "frequency": "9.21406%"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "href": "https://leetcode.com/problems/top-k-frequent-words",
+    "difficulty": "Medium",
+    "frequency": "16.3959%"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "href": "https://leetcode.com/problems/decode-string",
+    "difficulty": "Medium",
+    "frequency": "0.228332%"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "href": "https://leetcode.com/problems/reverse-linked-list",
+    "difficulty": "Easy",
+    "frequency": "0.643791%"
+  },
+  {
+    "id": "151",
+    "title": "Reverse Words in a String",
+    "href": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "frequency": "0.615677%"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "href": "https://leetcode.com/problems/valid-anagram",
+    "difficulty": "Easy",
+    "frequency": "0.270605%"
+  },
+  {
+    "id": "381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "href": "https://leetcode.com/problems/string-compression",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "href": "https://leetcode.com/problems/random-pick-with-weight",
+    "difficulty": "Medium",
+    "frequency": "14.4388%"
+  },
+  {
+    "id": "192",
+    "title": "Word Frequency",
+    "href": "https://leetcode.com/problems/word-frequency",
+    "difficulty": "Medium",
+    "frequency": "3.5862%"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "href": "https://leetcode.com/problems/design-twitter",
+    "difficulty": "Medium",
+    "frequency": "47.5398%"
+  },
+  {
+    "id": "1126",
+    "title": "Active Businesses",
+    "href": "https://leetcode.com/problems/active-businesses",
+    "difficulty": "Medium",
+    "frequency": "16.5739%"
+  },
+  {
+    "id": "1333",
+    "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "href": "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance",
+    "difficulty": "Medium",
+    "frequency": "7.98123%"
+  },
+  {
+    "id": "1436",
+    "title": "Destination City",
+    "href": "https://leetcode.com/problems/destination-city",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1455",
+    "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "href": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  }
+]

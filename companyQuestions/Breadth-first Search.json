@@ -1,0 +1,527 @@
+[
+  {
+    "id": "101",
+    "title": "Symmetric Tree",
+    "href": "https://leetcode.com/problems/symmetric-tree",
+    "difficulty": "Easy",
+    "frequency": "58.3752%"
+  },
+  {
+    "id": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "53.9258%"
+  },
+  {
+    "id": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "70.5194%"
+  },
+  {
+    "id": "107",
+    "title": "Binary Tree Level Order Traversal II",
+    "href": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+    "difficulty": "Easy",
+    "frequency": "44.3893%"
+  },
+  {
+    "id": "111",
+    "title": "Minimum Depth of Binary Tree",
+    "href": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "frequency": "7.81006%"
+  },
+  {
+    "id": "126",
+    "title": "Word Ladder II",
+    "href": "https://leetcode.com/problems/word-ladder-ii",
+    "difficulty": "Hard",
+    "frequency": "69.3453%"
+  },
+  {
+    "id": "127",
+    "title": "Word Ladder",
+    "href": "https://leetcode.com/problems/word-ladder",
+    "difficulty": "Medium",
+    "frequency": "90.0015%"
+  },
+  {
+    "id": "130",
+    "title": "Surrounded Regions",
+    "href": "https://leetcode.com/problems/surrounded-regions",
+    "difficulty": "Medium",
+    "frequency": "51.4641%"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "href": "https://leetcode.com/problems/clone-graph",
+    "difficulty": "Medium",
+    "frequency": "39.2709%"
+  },
+  {
+    "id": "199",
+    "title": "Binary Tree Right Side View",
+    "href": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "frequency": "89.19%"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "href": "https://leetcode.com/problems/number-of-islands",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "href": "https://leetcode.com/problems/course-schedule",
+    "difficulty": "Medium",
+    "frequency": "60.4464%"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "href": "https://leetcode.com/problems/course-schedule-ii",
+    "difficulty": "Medium",
+    "frequency": "69.7196%"
+  },
+  {
+    "id": "261",
+    "title": "Graph Valid Tree",
+    "href": "https://leetcode.com/problems/graph-valid-tree",
+    "difficulty": "Medium",
+    "frequency": "6.67893%"
+  },
+  {
+    "id": "279",
+    "title": "Perfect Squares",
+    "href": "https://leetcode.com/problems/perfect-squares",
+    "difficulty": "Medium",
+    "frequency": "69.4733%"
+  },
+  {
+    "id": "286",
+    "title": "Walls and Gates",
+    "href": "https://leetcode.com/problems/walls-and-gates",
+    "difficulty": "Medium",
+    "frequency": "44.5898%"
+  },
+  {
+    "id": "301",
+    "title": "Remove Invalid Parentheses",
+    "href": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "difficulty": "Hard",
+    "frequency": "79.8341%"
+  },
+  {
+    "id": "310",
+    "title": "Minimum Height Trees",
+    "href": "https://leetcode.com/problems/minimum-height-trees",
+    "difficulty": "Medium",
+    "frequency": "30.329%"
+  },
+  {
+    "id": "314",
+    "title": "Binary Tree Vertical Order Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "59.8962%"
+  },
+  {
+    "id": "317",
+    "title": "Shortest Distance from All Buildings",
+    "href": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "difficulty": "Hard",
+    "frequency": "50.3356%"
+  },
+  {
+    "id": "323",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "href": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "difficulty": "Medium",
+    "frequency": "29.1461%"
+  },
+  {
+    "id": "407",
+    "title": "Trapping Rain Water II",
+    "href": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "difficulty": "Hard",
+    "frequency": "64.0554%"
+  },
+  {
+    "id": "417",
+    "title": "Pacific Atlantic Water Flow",
+    "href": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "difficulty": "Medium",
+    "frequency": "57.1914%"
+  },
+  {
+    "id": "490",
+    "title": "The Maze",
+    "href": "https://leetcode.com/problems/the-maze",
+    "difficulty": "Medium",
+    "frequency": "31.6337%"
+  },
+  {
+    "id": "499",
+    "title": "The Maze III",
+    "href": "https://leetcode.com/problems/the-maze-iii",
+    "difficulty": "Hard",
+    "frequency": "11.0223%"
+  },
+  {
+    "id": "505",
+    "title": "The Maze II",
+    "href": "https://leetcode.com/problems/the-maze-ii",
+    "difficulty": "Medium",
+    "frequency": "15.6867%"
+  },
+  {
+    "id": "513",
+    "title": "Find Bottom Left Tree Value",
+    "href": "https://leetcode.com/problems/find-bottom-left-tree-value",
+    "difficulty": "Medium",
+    "frequency": "10.0758%"
+  },
+  {
+    "id": "515",
+    "title": "Find Largest Value in Each Tree Row",
+    "href": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "difficulty": "Medium",
+    "frequency": "20.2441%"
+  },
+  {
+    "id": "529",
+    "title": "Minesweeper",
+    "href": "https://leetcode.com/problems/minesweeper",
+    "difficulty": "Medium",
+    "frequency": "63.3025%"
+  },
+  {
+    "id": "542",
+    "title": "01 Matrix",
+    "href": "https://leetcode.com/problems/01-matrix",
+    "difficulty": "Medium",
+    "frequency": "36.0099%"
+  },
+  {
+    "id": "675",
+    "title": "Cut Off Trees for Golf Event",
+    "href": "https://leetcode.com/problems/cut-off-trees-for-golf-event",
+    "difficulty": "Hard",
+    "frequency": "11.4581%"
+  },
+  {
+    "id": "690",
+    "title": "Employee Importance",
+    "href": "https://leetcode.com/problems/employee-importance",
+    "difficulty": "Easy",
+    "frequency": "12.4428%"
+  },
+  {
+    "id": "743",
+    "title": "Network Delay Time",
+    "href": "https://leetcode.com/problems/network-delay-time",
+    "difficulty": "Medium",
+    "frequency": "24.3705%"
+  },
+  {
+    "id": "752",
+    "title": "Open the Lock",
+    "href": "https://leetcode.com/problems/open-the-lock",
+    "difficulty": "Medium",
+    "frequency": "31.6203%"
+  },
+  {
+    "id": "429",
+    "title": "N-ary Tree Level Order Traversal",
+    "href": "https://leetcode.com/problems/n-ary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "3.24841%"
+  },
+  {
+    "id": "559",
+    "title": "Maximum Depth of N-ary Tree",
+    "href": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+    "difficulty": "Easy",
+    "frequency": "10.2178%"
+  },
+  {
+    "id": "773",
+    "title": "Sliding Puzzle",
+    "href": "https://leetcode.com/problems/sliding-puzzle",
+    "difficulty": "Hard",
+    "frequency": "48.1949%"
+  },
+  {
+    "id": "785",
+    "title": "Is Graph Bipartite?",
+    "href": "https://leetcode.com/problems/is-graph-bipartite",
+    "difficulty": "Medium",
+    "frequency": "45.7904%"
+  },
+  {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "href": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "frequency": "45.0938%"
+  },
+  {
+    "id": "815",
+    "title": "Bus Routes",
+    "href": "https://leetcode.com/problems/bus-routes",
+    "difficulty": "Hard",
+    "frequency": "56.806%"
+  },
+  {
+    "id": "847",
+    "title": "Shortest Path Visiting All Nodes",
+    "href": "https://leetcode.com/problems/shortest-path-visiting-all-nodes",
+    "difficulty": "Hard",
+    "frequency": "8.97405%"
+  },
+  {
+    "id": "854",
+    "title": "K-Similar Strings",
+    "href": "https://leetcode.com/problems/k-similar-strings",
+    "difficulty": "Hard",
+    "frequency": "22.6208%"
+  },
+  {
+    "id": "863",
+    "title": "All Nodes Distance K in Binary Tree",
+    "href": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "66.8021%"
+  },
+  {
+    "id": "864",
+    "title": "Shortest Path to Get All Keys",
+    "href": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "difficulty": "Hard",
+    "frequency": "36.4463%"
+  },
+  {
+    "id": "909",
+    "title": "Snakes and Ladders",
+    "href": "https://leetcode.com/problems/snakes-and-ladders",
+    "difficulty": "Medium",
+    "frequency": "64.3273%"
+  },
+  {
+    "id": "913",
+    "title": "Cat and Mouse",
+    "href": "https://leetcode.com/problems/cat-and-mouse",
+    "difficulty": "Hard",
+    "frequency": "32.4357%"
+  },
+  {
+    "id": "934",
+    "title": "Shortest Bridge",
+    "href": "https://leetcode.com/problems/shortest-bridge",
+    "difficulty": "Medium",
+    "frequency": "59.919%"
+  },
+  {
+    "id": "967",
+    "title": "Numbers With Same Consecutive Differences",
+    "href": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+    "difficulty": "Medium",
+    "frequency": "9.52384%"
+  },
+  {
+    "id": "993",
+    "title": "Cousins in Binary Tree",
+    "href": "https://leetcode.com/problems/cousins-in-binary-tree",
+    "difficulty": "Easy",
+    "frequency": "27.354%"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "href": "https://leetcode.com/problems/rotting-oranges",
+    "difficulty": "Medium",
+    "frequency": "90.6441%"
+  },
+  {
+    "id": "1036",
+    "title": "Escape a Large Maze",
+    "href": "https://leetcode.com/problems/escape-a-large-maze",
+    "difficulty": "Hard",
+    "frequency": "3.86018%"
+  },
+  {
+    "id": "1161",
+    "title": "Maximum Level Sum of a Binary Tree",
+    "href": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "8.78062%"
+  },
+  {
+    "id": "1162",
+    "title": "As Far from Land as Possible",
+    "href": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "difficulty": "Medium",
+    "frequency": "29.1803%"
+  },
+  {
+    "id": "1197",
+    "title": "Minimum Knight Moves",
+    "href": "https://leetcode.com/problems/minimum-knight-moves",
+    "difficulty": "Medium",
+    "frequency": "70.5519%"
+  },
+  {
+    "id": "1091",
+    "title": "Shortest Path in Binary Matrix",
+    "href": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "difficulty": "Medium",
+    "frequency": "46.4131%"
+  },
+  {
+    "id": "1245",
+    "title": "Tree Diameter",
+    "href": "https://leetcode.com/problems/tree-diameter",
+    "difficulty": "Medium",
+    "frequency": "24.0179%"
+  },
+  {
+    "id": "1129",
+    "title": "Shortest Path with Alternating Colors",
+    "href": "https://leetcode.com/problems/shortest-path-with-alternating-colors",
+    "difficulty": "Medium",
+    "frequency": "10.1793%"
+  },
+  {
+    "id": "1236",
+    "title": "Web Crawler",
+    "href": "https://leetcode.com/problems/web-crawler",
+    "difficulty": "Medium",
+    "frequency": "42.0408%"
+  },
+  {
+    "id": "1210",
+    "title": "Minimum Moves to Reach Target with Rotations",
+    "href": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "href": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "difficulty": "Medium",
+    "frequency": "60.0707%"
+  },
+  {
+    "id": "1263",
+    "title": "Minimum Moves to Move a Box to Their Target Location",
+    "href": "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1284",
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "href": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "difficulty": "Hard",
+    "frequency": "4.4505%"
+  },
+  {
+    "id": "1293",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "href": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "difficulty": "Hard",
+    "frequency": "55.288%"
+  },
+  {
+    "id": "1298",
+    "title": "Maximum Candies You Can Get from Boxes",
+    "href": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+    "difficulty": "Hard",
+    "frequency": "5.97481%"
+  },
+  {
+    "id": "1306",
+    "title": "Jump Game III",
+    "href": "https://leetcode.com/problems/jump-game-iii",
+    "difficulty": "Medium",
+    "frequency": "13.8914%"
+  },
+  {
+    "id": "1311",
+    "title": "Get Watched Videos by Your Friends",
+    "href": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+    "difficulty": "Medium",
+    "frequency": "3.49214%"
+  },
+  {
+    "id": "1319",
+    "title": "Number of Operations to Make Network Connected",
+    "href": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "difficulty": "Medium",
+    "frequency": "17.8088%"
+  },
+  {
+    "id": "1345",
+    "title": "Jump Game IV",
+    "href": "https://leetcode.com/problems/jump-game-iv",
+    "difficulty": "Hard",
+    "frequency": "22.344%"
+  },
+  {
+    "id": "1368",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "href": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "difficulty": "Hard",
+    "frequency": "30.1348%"
+  },
+  {
+    "id": "1391",
+    "title": "Check if There is a Valid Path in a Grid",
+    "href": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+    "difficulty": "Medium",
+    "frequency": "26.8155%"
+  },
+  {
+    "id": "1485",
+    "title": "Clone Binary Tree With Random Pointer",
+    "href": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer",
+    "difficulty": "Medium",
+    "frequency": "8.40572%"
+  },
+  {
+    "id": "1490",
+    "title": "Clone N-ary Tree",
+    "href": "https://leetcode.com/problems/clone-n-ary-tree",
+    "difficulty": "Medium",
+    "frequency": "3.82406%"
+  },
+  {
+    "id": "1519",
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "href": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "difficulty": "Medium",
+    "frequency": "20.2304%"
+  },
+  {
+    "id": "1602",
+    "title": "Find Nearest Right Node in Binary Tree",
+    "href": "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1625",
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "href": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "href": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "href": "https://leetcode.com/problems/minimum-window-substring",
+    "difficulty": "Hard",
+    "frequency": "78.0079%"
+  },
+  {
+    "id": "159",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "href": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "difficulty": "Medium",
+    "frequency": "21.7286%"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "href": "https://leetcode.com/problems/sliding-window-maximum",
+    "difficulty": "Hard",
+    "frequency": "71.2477%"
+  },
+  {
+    "id": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "href": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "difficulty": "Hard",
+    "frequency": "43.7796%"
+  },
+  {
+    "id": "424",
+    "title": "Longest Repeating Character Replacement",
+    "href": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "frequency": "25.0735%"
+  },
+  {
+    "id": "480",
+    "title": "Sliding Window Median",
+    "href": "https://leetcode.com/problems/sliding-window-median",
+    "difficulty": "Hard",
+    "frequency": "47.3116%"
+  },
+  {
+    "id": "567",
+    "title": "Permutation in String",
+    "href": "https://leetcode.com/problems/permutation-in-string",
+    "difficulty": "Medium",
+    "frequency": "35.9346%"
+  },
+  {
+    "id": "727",
+    "title": "Minimum Window Subsequence",
+    "href": "https://leetcode.com/problems/minimum-window-subsequence",
+    "difficulty": "Hard",
+    "frequency": "38.3211%"
+  },
+  {
+    "id": "978",
+    "title": "Longest Turbulent Subarray",
+    "href": "https://leetcode.com/problems/longest-turbulent-subarray",
+    "difficulty": "Medium",
+    "frequency": "7.52263%"
+  },
+  {
+    "id": "992",
+    "title": "Subarrays with K Different Integers",
+    "href": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "difficulty": "Hard",
+    "frequency": "33.9616%"
+  },
+  {
+    "id": "995",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "href": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips",
+    "difficulty": "Hard",
+    "frequency": "23.3284%"
+  },
+  {
+    "id": "1004",
+    "title": "Max Consecutive Ones III",
+    "href": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "difficulty": "Medium",
+    "frequency": "36.8374%"
+  },
+  {
+    "id": "1100",
+    "title": "Find K-Length Substrings With No Repeated Characters",
+    "href": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters",
+    "difficulty": "Medium",
+    "frequency": "4.29082%"
+  },
+  {
+    "id": "1151",
+    "title": "Minimum Swaps to Group All 1's Together",
+    "href": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together",
+    "difficulty": "Medium",
+    "frequency": "9.98995%"
+  },
+  {
+    "id": "1040",
+    "title": "Moving Stones Until Consecutive II",
+    "href": "https://leetcode.com/problems/moving-stones-until-consecutive-ii",
+    "difficulty": "Medium",
+    "frequency": "6.16575%"
+  },
+  {
+    "id": "1052",
+    "title": "Grumpy Bookstore Owner",
+    "href": "https://leetcode.com/problems/grumpy-bookstore-owner",
+    "difficulty": "Medium",
+    "frequency": "13.68%"
+  },
+  {
+    "id": "1074",
+    "title": "Number of Submatrices That Sum to Target",
+    "href": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
+    "difficulty": "Hard",
+    "frequency": "26.8952%"
+  },
+  {
+    "id": "1176",
+    "title": "Diet Plan Performance",
+    "href": "https://leetcode.com/problems/diet-plan-performance",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1208",
+    "title": "Get Equal Substrings Within Budget",
+    "href": "https://leetcode.com/problems/get-equal-substrings-within-budget",
+    "difficulty": "Medium",
+    "frequency": "1.66794%"
+  },
+  {
+    "id": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "href": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "difficulty": "Medium",
+    "frequency": "40.1834%"
+  },
+  {
+    "id": "1438",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "href": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "difficulty": "Medium",
+    "frequency": "49.2556%"
+  },
+  {
+    "id": "1456",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "href": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "frequency": "17.7233%"
+  },
+  {
+    "id": "1498",
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "href": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "difficulty": "Medium",
+    "frequency": "20.0557%"
+  },
+  {
+    "id": "1499",
+    "title": "Max Value of Equation",
+    "href": "https://leetcode.com/problems/max-value-of-equation",
+    "difficulty": "Hard",
+    "frequency": "7.9675%"
+  }
+]

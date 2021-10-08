@@ -1,0 +1,338 @@
+[
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "href": "https://leetcode.com/problems/clone-graph",
+    "difficulty": "Medium",
+    "frequency": "47.8203%"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "href": "https://leetcode.com/problems/course-schedule",
+    "difficulty": "Medium",
+    "frequency": "73.6058%"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "href": "https://leetcode.com/problems/course-schedule-ii",
+    "difficulty": "Medium",
+    "frequency": "84.8979%"
+  },
+  {
+    "id": "261",
+    "title": "Graph Valid Tree",
+    "href": "https://leetcode.com/problems/graph-valid-tree",
+    "difficulty": "Medium",
+    "frequency": "8.13295%"
+  },
+  {
+    "id": "269",
+    "title": "Alien Dictionary",
+    "href": "https://leetcode.com/problems/alien-dictionary",
+    "difficulty": "Hard",
+    "frequency": "100%"
+  },
+  {
+    "id": "310",
+    "title": "Minimum Height Trees",
+    "href": "https://leetcode.com/problems/minimum-height-trees",
+    "difficulty": "Medium",
+    "frequency": "36.9317%"
+  },
+  {
+    "id": "323",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "href": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "difficulty": "Medium",
+    "frequency": "35.4913%"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "href": "https://leetcode.com/problems/reconstruct-itinerary",
+    "difficulty": "Medium",
+    "frequency": "82.3511%"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "href": "https://leetcode.com/problems/evaluate-division",
+    "difficulty": "Medium",
+    "frequency": "39.6311%"
+  },
+  {
+    "id": "444",
+    "title": "Sequence Reconstruction",
+    "href": "https://leetcode.com/problems/sequence-reconstruction",
+    "difficulty": "Medium",
+    "frequency": "37.4479%"
+  },
+  {
+    "id": "1059",
+    "title": "All Paths from Source Lead to Destination",
+    "href": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination",
+    "difficulty": "Medium",
+    "frequency": "13.3962%"
+  },
+  {
+    "id": "684",
+    "title": "Redundant Connection",
+    "href": "https://leetcode.com/problems/redundant-connection",
+    "difficulty": "Medium",
+    "frequency": "16.129%"
+  },
+  {
+    "id": "685",
+    "title": "Redundant Connection II",
+    "href": "https://leetcode.com/problems/redundant-connection-ii",
+    "difficulty": "Hard",
+    "frequency": "19.6049%"
+  },
+  {
+    "id": "743",
+    "title": "Network Delay Time",
+    "href": "https://leetcode.com/problems/network-delay-time",
+    "difficulty": "Medium",
+    "frequency": "29.6761%"
+  },
+  {
+    "id": "765",
+    "title": "Couples Holding Hands",
+    "href": "https://leetcode.com/problems/couples-holding-hands",
+    "difficulty": "Hard",
+    "frequency": "29.5137%"
+  },
+  {
+    "id": "785",
+    "title": "Is Graph Bipartite?",
+    "href": "https://leetcode.com/problems/is-graph-bipartite",
+    "difficulty": "Medium",
+    "frequency": "55.7591%"
+  },
+  {
+    "id": "797",
+    "title": "All Paths From Source to Target",
+    "href": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "frequency": "43.3927%"
+  },
+  {
+    "id": "802",
+    "title": "Find Eventual Safe States",
+    "href": "https://leetcode.com/problems/find-eventual-safe-states",
+    "difficulty": "Medium",
+    "frequency": "17.1231%"
+  },
+  {
+    "id": "839",
+    "title": "Similar String Groups",
+    "href": "https://leetcode.com/problems/similar-string-groups",
+    "difficulty": "Hard",
+    "frequency": "24.3172%"
+  },
+  {
+    "id": "841",
+    "title": "Keys and Rooms",
+    "href": "https://leetcode.com/problems/keys-and-rooms",
+    "difficulty": "Medium",
+    "frequency": "12.6623%"
+  },
+  {
+    "id": "854",
+    "title": "K-Similar Strings",
+    "href": "https://leetcode.com/problems/k-similar-strings",
+    "difficulty": "Hard",
+    "frequency": "27.5454%"
+  },
+  {
+    "id": "886",
+    "title": "Possible Bipartition",
+    "href": "https://leetcode.com/problems/possible-bipartition",
+    "difficulty": "Medium",
+    "frequency": "42.2322%"
+  },
+  {
+    "id": "928",
+    "title": "Minimize Malware Spread II",
+    "href": "https://leetcode.com/problems/minimize-malware-spread-ii",
+    "difficulty": "Hard",
+    "frequency": "4.832%"
+  },
+  {
+    "id": "959",
+    "title": "Regions Cut By Slashes",
+    "href": "https://leetcode.com/problems/regions-cut-by-slashes",
+    "difficulty": "Medium",
+    "frequency": "43.5093%"
+  },
+  {
+    "id": "990",
+    "title": "Satisfiability of Equality Equations",
+    "href": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "996",
+    "title": "Number of Squareful Arrays",
+    "href": "https://leetcode.com/problems/number-of-squareful-arrays",
+    "difficulty": "Hard",
+    "frequency": "22.1102%"
+  },
+  {
+    "id": "997",
+    "title": "Find the Town Judge",
+    "href": "https://leetcode.com/problems/find-the-town-judge",
+    "difficulty": "Easy",
+    "frequency": "30.5617%"
+  },
+  {
+    "id": "1102",
+    "title": "Path With Maximum Minimum Value",
+    "href": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+    "difficulty": "Medium",
+    "frequency": "19.4921%"
+  },
+  {
+    "id": "1135",
+    "title": "Connecting Cities With Minimum Cost",
+    "href": "https://leetcode.com/problems/connecting-cities-with-minimum-cost",
+    "difficulty": "Medium",
+    "frequency": "14.9212%"
+  },
+  {
+    "id": "1136",
+    "title": "Parallel Courses",
+    "href": "https://leetcode.com/problems/parallel-courses",
+    "difficulty": "Hard",
+    "frequency": "34.7589%"
+  },
+  {
+    "id": "1162",
+    "title": "As Far from Land as Possible",
+    "href": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "difficulty": "Medium",
+    "frequency": "35.5329%"
+  },
+  {
+    "id": "1042",
+    "title": "Flower Planting With No Adjacent",
+    "href": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+    "difficulty": "Easy",
+    "frequency": "34.6774%"
+  },
+  {
+    "id": "1153",
+    "title": "String Transforms Into Another String",
+    "href": "https://leetcode.com/problems/string-transforms-into-another-string",
+    "difficulty": "Hard",
+    "frequency": "58.5036%"
+  },
+  {
+    "id": "1168",
+    "title": "Optimize Water Distribution in a Village",
+    "href": "https://leetcode.com/problems/optimize-water-distribution-in-a-village",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1129",
+    "title": "Shortest Path with Alternating Colors",
+    "href": "https://leetcode.com/problems/shortest-path-with-alternating-colors",
+    "difficulty": "Medium",
+    "frequency": "12.3954%"
+  },
+  {
+    "id": "1361",
+    "title": "Validate Binary Tree Nodes",
+    "href": "https://leetcode.com/problems/validate-binary-tree-nodes",
+    "difficulty": "Medium",
+    "frequency": "1.70965%"
+  },
+  {
+    "id": "1203",
+    "title": "Sort Items by Groups Respecting Dependencies",
+    "href": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies",
+    "difficulty": "Hard",
+    "frequency": "22.0282%"
+  },
+  {
+    "id": "1514",
+    "title": "Path with Maximum Probability",
+    "href": "https://leetcode.com/problems/path-with-maximum-probability",
+    "difficulty": "Medium",
+    "frequency": "14.0026%"
+  },
+  {
+    "id": "1267",
+    "title": "Count Servers that Communicate",
+    "href": "https://leetcode.com/problems/count-servers-that-communicate",
+    "difficulty": "Medium",
+    "frequency": "30.0611%"
+  },
+  {
+    "id": "1306",
+    "title": "Jump Game III",
+    "href": "https://leetcode.com/problems/jump-game-iii",
+    "difficulty": "Medium",
+    "frequency": "16.9156%"
+  },
+  {
+    "id": "1334",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "href": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "difficulty": "Medium",
+    "frequency": "22.6441%"
+  },
+  {
+    "id": "1387",
+    "title": "Sort Integers by The Power Value",
+    "href": "https://leetcode.com/problems/sort-integers-by-the-power-value",
+    "difficulty": "Medium",
+    "frequency": "7.43809%"
+  },
+  {
+    "id": "1462",
+    "title": "Course Schedule IV",
+    "href": "https://leetcode.com/problems/course-schedule-iv",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1494",
+    "title": "Parallel Courses II",
+    "href": "https://leetcode.com/problems/parallel-courses-ii",
+    "difficulty": "Hard",
+    "frequency": "19.2963%"
+  },
+  {
+    "id": "1557",
+    "title": "Minimum Number of Vertices to Reach All Nodes",
+    "href": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes",
+    "difficulty": "Medium",
+    "frequency": "0.748832%"
+  },
+  {
+    "id": "1548",
+    "title": "The Most Similar Path in a Graph",
+    "href": "https://leetcode.com/problems/the-most-similar-path-in-a-graph",
+    "difficulty": "Hard",
+    "frequency": "28.1822%"
+  },
+  {
+    "id": "1595",
+    "title": "Minimum Cost to Connect Two Groups of Points",
+    "href": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1615",
+    "title": "Maximal Network Rank",
+    "href": "https://leetcode.com/problems/maximal-network-rank",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  }
+]

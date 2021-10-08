@@ -1,0 +1,205 @@
+[
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "href": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "frequency": "21.4389%"
+  },
+  {
+    "id": "855",
+    "title": "Exam Room",
+    "href": "https://leetcode.com/problems/exam-room",
+    "difficulty": "Medium",
+    "frequency": "60.7195%"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "href": "https://leetcode.com/problems/find-peak-element",
+    "difficulty": "Medium",
+    "frequency": "5.67447%"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "href": "https://leetcode.com/problems/next-permutation",
+    "difficulty": "Medium",
+    "frequency": "2.56926%"
+  },
+  {
+    "id": "437",
+    "title": "Path Sum III",
+    "href": "https://leetcode.com/problems/path-sum-iii",
+    "difficulty": "Medium",
+    "frequency": "14.2971%"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "href": "https://leetcode.com/problems/longest-common-prefix",
+    "difficulty": "Easy",
+    "frequency": "6.9782%"
+  },
+  {
+    "id": "113",
+    "title": "Path Sum II",
+    "href": "https://leetcode.com/problems/path-sum-ii",
+    "difficulty": "Medium",
+    "frequency": "5.19521%"
+  },
+  {
+    "id": "717",
+    "title": "1-bit and 2-bit Characters",
+    "href": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "852",
+    "title": "Peak Index in a Mountain Array",
+    "href": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "difficulty": "Easy",
+    "frequency": "2.75962%"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "href": "https://leetcode.com/problems/3sum",
+    "difficulty": "Medium",
+    "frequency": "0.978842%"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "frequency": "3.68393%"
+  },
+  {
+    "id": "923",
+    "title": "3Sum With Multiplicity",
+    "href": "https://leetcode.com/problems/3sum-with-multiplicity",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "href": "https://leetcode.com/problems/combination-sum",
+    "difficulty": "Medium",
+    "frequency": "0.296207%"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "href": "https://leetcode.com/problems/house-robber",
+    "difficulty": "Easy",
+    "frequency": "0.0796345%"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "href": "https://leetcode.com/problems/meeting-rooms-ii",
+    "difficulty": "Medium",
+    "frequency": "4.23686%"
+  },
+  {
+    "id": "1256",
+    "title": "Encode Number",
+    "href": "https://leetcode.com/problems/encode-number",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1329",
+    "title": "Sort the Matrix Diagonally",
+    "href": "https://leetcode.com/problems/sort-the-matrix-diagonally",
+    "difficulty": "Medium",
+    "frequency": "4.85048%"
+  },
+  {
+    "id": "1053",
+    "title": "Previous Permutation With One Swap",
+    "href": "https://leetcode.com/problems/previous-permutation-with-one-swap",
+    "difficulty": "Medium",
+    "frequency": "5.12898%"
+  },
+  {
+    "id": "525",
+    "title": "Contiguous Array",
+    "href": "https://leetcode.com/problems/contiguous-array",
+    "difficulty": "Medium",
+    "frequency": "21.3693%"
+  },
+  {
+    "id": "1027",
+    "title": "Longest Arithmetic Subsequence",
+    "href": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+    "difficulty": "Medium",
+    "frequency": "2.68079%"
+  },
+  {
+    "id": "48",
+    "title": "Rotate Image",
+    "href": "https://leetcode.com/problems/rotate-image",
+    "difficulty": "Medium",
+    "frequency": "1.77679%"
+  },
+  {
+    "id": "498",
+    "title": "Diagonal Traverse",
+    "href": "https://leetcode.com/problems/diagonal-traverse",
+    "difficulty": "Medium",
+    "frequency": "8.1825%"
+  },
+  {
+    "id": "390",
+    "title": "Elimination Game",
+    "href": "https://leetcode.com/problems/elimination-game",
+    "difficulty": "Medium",
+    "frequency": "2.13643%"
+  },
+  {
+    "id": "452",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "href": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "difficulty": "Medium",
+    "frequency": "0.323323%"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "href": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "frequency": "0.0942361%"
+  },
+  {
+    "id": "780",
+    "title": "Reaching Points",
+    "href": "https://leetcode.com/problems/reaching-points",
+    "difficulty": "Hard",
+    "frequency": "3.13095%"
+  },
+  {
+    "id": "1281",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "href": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1295",
+    "title": "Find Numbers with Even Number of Digits",
+    "href": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1354",
+    "title": "Construct Target Array With Multiple Sums",
+    "href": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+    "difficulty": "Hard",
+    "frequency": "10.9931%"
+  }
+]

@@ -1,0 +1,6 @@
+CSS
+Poll Widget question (just know your positioning, relative, static etc know the differences inside out). You might want to know specificity as well.
+design/code a poll widget. All of the questions were heavy on JS, which is expected for this position
+Using HTML and CSS, show how you would create an image that would display another image (aligned to the bottom, right) when the user hovers over the image.
+
+ex. The Facebook "edit profile picture" icon

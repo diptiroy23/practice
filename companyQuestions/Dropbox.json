@@ -1,0 +1,170 @@
+[
+  {
+    "id": "291",
+    "title": "Word Pattern II",
+    "href": "https://leetcode.com/problems/word-pattern-ii",
+    "difficulty": "Hard",
+    "frequency": "43.1557%"
+  },
+  {
+    "id": "289",
+    "title": "Game of Life",
+    "href": "https://leetcode.com/problems/game-of-life",
+    "difficulty": "Medium",
+    "frequency": "85.079%"
+  },
+  {
+    "id": "609",
+    "title": "Find Duplicate File in System",
+    "href": "https://leetcode.com/problems/find-duplicate-file-in-system",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "href": "https://leetcode.com/problems/lru-cache",
+    "difficulty": "Medium",
+    "frequency": "3.99765%"
+  },
+  {
+    "id": "28",
+    "title": "Implement strStr()",
+    "href": "https://leetcode.com/problems/implement-strstr",
+    "difficulty": "Easy",
+    "frequency": "0.114502%"
+  },
+  {
+    "id": "379",
+    "title": "Design Phone Directory",
+    "href": "https://leetcode.com/problems/design-phone-directory",
+    "difficulty": "Medium",
+    "frequency": "58.1794%"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "href": "https://leetcode.com/problems/design-hit-counter",
+    "difficulty": "Medium",
+    "frequency": "44.5283%"
+  },
+  {
+    "id": "290",
+    "title": "Word Pattern",
+    "href": "https://leetcode.com/problems/word-pattern",
+    "difficulty": "Easy",
+    "frequency": "4.02675%"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "frequency": "10.8447%"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "href": "https://leetcode.com/problems/two-sum",
+    "difficulty": "Easy",
+    "frequency": "0.182015%"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "href": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "frequency": "0.172652%"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "href": "https://leetcode.com/problems/word-break-ii",
+    "difficulty": "Hard",
+    "frequency": "3.31491%"
+  },
+  {
+    "id": "924",
+    "title": "Minimize Malware Spread",
+    "href": "https://leetcode.com/problems/minimize-malware-spread",
+    "difficulty": "Hard",
+    "frequency": "66.5836%"
+  },
+  {
+    "id": "928",
+    "title": "Minimize Malware Spread II",
+    "href": "https://leetcode.com/problems/minimize-malware-spread-ii",
+    "difficulty": "Hard",
+    "frequency": "24.6603%"
+  },
+  {
+    "id": "64",
+    "title": "Minimum Path Sum",
+    "href": "https://leetcode.com/problems/minimum-path-sum",
+    "difficulty": "Medium",
+    "frequency": "0.191869%"
+  },
+  {
+    "id": "1001",
+    "title": "Grid Illumination",
+    "href": "https://leetcode.com/problems/grid-illumination",
+    "difficulty": "Hard",
+    "frequency": "20.4432%"
+  },
+  {
+    "id": "1010",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "href": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "difficulty": "Easy",
+    "frequency": "0.603527%"
+  },
+  {
+    "id": "642",
+    "title": "Design Search Autocomplete System",
+    "href": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "difficulty": "Hard",
+    "frequency": "12.5582%"
+  },
+  {
+    "id": "1178",
+    "title": "Number of Valid Words for Each Puzzle",
+    "href": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle",
+    "difficulty": "Hard",
+    "frequency": "15.8138%"
+  },
+  {
+    "id": "1236",
+    "title": "Web Crawler",
+    "href": "https://leetcode.com/problems/web-crawler",
+    "difficulty": "Medium",
+    "frequency": "3.81726%"
+  },
+  {
+    "id": "1250",
+    "title": "Check If It Is a Good Array",
+    "href": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "href": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "difficulty": "Medium",
+    "frequency": "19.1645%"
+  },
+  {
+    "id": "547",
+    "title": "Friend Circles",
+    "href": "https://leetcode.com/problems/friend-circles",
+    "difficulty": "Medium",
+    "frequency": "3.23646%"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "href": "https://leetcode.com/problems/sliding-window-maximum",
+    "difficulty": "Hard",
+    "frequency": "1.52897%"
+  }
+]
