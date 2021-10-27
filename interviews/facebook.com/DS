@@ -1,15 +1,17 @@
-1. Given two Identical DOM tress A and B, check if a Node in A also exists in B
- Given two identical DOM tree structures, A and B, and a node from A, find the corresponding node in B.
- Given 2 identical DOM trees (but not equal) and one element of the first DOM tree, how would you find this element in the second DOM tree?
+https://igotanoffer.com/blogs/tech/facebook-front-end-engineer-interview
 
- Given two identical DOM trees (not the same one), and a node from one of them find the node in the other one
+1. 
+ Given two Identical DOM tress A and B, check if a Node in A also exists in B
+  https://codesandbox.io/s/98786yk9np?file=/src/index.js
+  https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree/discuss
 
 2. data structure problem with a front end slant
 3. Given a tree with specific nodes to visit, traverse another tree with the same structure and visit the nodes in same positions.
 4. You are given an array of N elements in the form "property1: value1; property2: value2;...;propertyX: valueX;" for some some N and any X. There is also another array of M elements of the form "property: value". You are supposed to write an algorithm to remove every element in the N length array that has a "property: value" pair in the M length array.You must come up with a solution that solves the problem in less than O(NM) time.
-5. Flatten Array,
+5. flatten a nested array with JavaScript (recursively and iteratively)
+Flatten Array,
   In JavaScript, write a function that takes an array as input that can contain both ints and more arrays (which can also contain an array or int) and return the flattened array.
-
+ [4, [3, 6, [9, 1, 9, [5, 1]]], 8] -> [4, 3, 6, 9, 1, 9, 5, 1, 8]
 ex. [1, [2, [ [3, 4], 5], 6]] => [1, 2, 3, 4, 5, 6] 
 Flatten array. This array can have multiple types: {}, [], "", undefined, null, 123 are all valid types inside the array.
 
@@ -25,3 +27,17 @@ D R F C A E A
 G H O E L A D
 
 9. Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops.
+
+Given two dimensional array of ‘1’ and ‘0’ , determine the number of connected islands.
+
+given two arrays, one of them is a map to another, you need to traverse and exclude from array objects according to the map, in general they expect from you to build an map object from key+value but you have to use ES6 MAP where key can be stored as object and not as string or ASCII coded string.
+
+Convert Roman numeral (string format) to sum
+
+Given a value N, return the corresponding string according to this pattern.
+1
+11
+21
+1211
+111221
+312211

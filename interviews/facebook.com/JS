@@ -55,5 +55,17 @@ JS
 14. Given a picture, how would you hide/show a child picture on hovering on this parent?
     How would you ensure clicking on this picture would go to a specific link?
     How would you ensure the child is positioned in the top right of the parent picture?
+15. Implement a hash table.
+
+Look for an element in a specific HTML structure.
+- Time complexity
+
+what is a difference between Object and Array, call and apply, what is DOM structure, what is time complexity of traversing through the DOM, other very basic questions.
+he second question was about setTimeout browser api, you will be asked to clean all timeouts, the answer is to override setTimeout and store all of them in stuck and clean them if needed.
+
+Animate a given element using JS across any given time frame
 
 
+includes/excludes array question (you can find the complete questions on the forum)
+
+Difference between == and === javascript
