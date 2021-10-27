@@ -32,4 +32,8 @@ class MyEventEmitter {
 
     this._events[name].forEach(fireCallbacks);
   }
+
 }
+
+}
+
