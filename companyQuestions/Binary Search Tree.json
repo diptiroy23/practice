@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1038",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "href": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "difficulty": "Medium",
+    "frequency": "74.7344%"
+  },
+  {
+    "id": "1214",
+    "title": "Two Sum BSTs",
+    "href": "https://leetcode.com/problems/two-sum-bsts",
+    "difficulty": "Medium",
+    "frequency": "18.9846%"
+  },
+  {
+    "id": "1382",
+    "title": "Balance a Binary Search Tree",
+    "href": "https://leetcode.com/problems/balance-a-binary-search-tree",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "1373",
+    "title": "Maximum Sum BST in Binary Tree",
+    "href": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "difficulty": "Hard",
+    "frequency": "46.8595%"
+  }
+]

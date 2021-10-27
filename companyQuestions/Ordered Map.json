@@ -1,0 +1,86 @@
+[
+  {
+    "id": "220",
+    "title": "Contains Duplicate III",
+    "href": "https://leetcode.com/problems/contains-duplicate-iii",
+    "difficulty": "Medium",
+    "frequency": "50.8061%"
+  },
+  {
+    "id": "352",
+    "title": "Data Stream as Disjoint Intervals",
+    "href": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "difficulty": "Hard",
+    "frequency": "62.0533%"
+  },
+  {
+    "id": "683",
+    "title": "K Empty Slots",
+    "href": "https://leetcode.com/problems/k-empty-slots",
+    "difficulty": "Hard",
+    "frequency": "21.2696%"
+  },
+  {
+    "id": "699",
+    "title": "Falling Squares",
+    "href": "https://leetcode.com/problems/falling-squares",
+    "difficulty": "Hard",
+    "frequency": "78.1891%"
+  },
+  {
+    "id": "715",
+    "title": "Range Module",
+    "href": "https://leetcode.com/problems/range-module",
+    "difficulty": "Hard",
+    "frequency": "88.5792%"
+  },
+  {
+    "id": "731",
+    "title": "My Calendar II",
+    "href": "https://leetcode.com/problems/my-calendar-ii",
+    "difficulty": "Medium",
+    "frequency": "29.8249%"
+  },
+  {
+    "id": "732",
+    "title": "My Calendar III",
+    "href": "https://leetcode.com/problems/my-calendar-iii",
+    "difficulty": "Hard",
+    "frequency": "46.4754%"
+  },
+  {
+    "id": "846",
+    "title": "Hand of Straights",
+    "href": "https://leetcode.com/problems/hand-of-straights",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "855",
+    "title": "Exam Room",
+    "href": "https://leetcode.com/problems/exam-room",
+    "difficulty": "Medium",
+    "frequency": "45.9607%"
+  },
+  {
+    "id": "975",
+    "title": "Odd Even Jump",
+    "href": "https://leetcode.com/problems/odd-even-jump",
+    "difficulty": "Hard",
+    "frequency": "4.48279%"
+  },
+  {
+    "id": "1604",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "href": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1606",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "href": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "difficulty": "Hard",
+    "frequency": "6.42736%"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "346",
+    "title": "Moving Average from Data Stream",
+    "href": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "difficulty": "Easy",
+    "frequency": "51.1706%"
+  },
+  {
+    "id": "353",
+    "title": "Design Snake Game",
+    "href": "https://leetcode.com/problems/design-snake-game",
+    "difficulty": "Medium",
+    "frequency": "64.6004%"
+  },
+  {
+    "id": "363",
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "href": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+    "difficulty": "Hard",
+    "frequency": "63.8776%"
+  },
+  {
+    "id": "582",
+    "title": "Kill Process",
+    "href": "https://leetcode.com/problems/kill-process",
+    "difficulty": "Medium",
+    "frequency": "15.771%"
+  },
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "href": "https://leetcode.com/problems/task-scheduler",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "641",
+    "title": "Design Circular Deque",
+    "href": "https://leetcode.com/problems/design-circular-deque",
+    "difficulty": "Medium",
+    "frequency": "5.64765%"
+  },
+  {
+    "id": "622",
+    "title": "Design Circular Queue",
+    "href": "https://leetcode.com/problems/design-circular-queue",
+    "difficulty": "Medium",
+    "frequency": "60.1465%"
+  },
+  {
+    "id": "862",
+    "title": "Shortest Subarray with Sum at Least K",
+    "href": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k",
+    "difficulty": "Hard",
+    "frequency": "56.4464%"
+  },
+  {
+    "id": "933",
+    "title": "Number of Recent Calls",
+    "href": "https://leetcode.com/problems/number-of-recent-calls",
+    "difficulty": "Easy",
+    "frequency": "6.41481%"
+  }
+]

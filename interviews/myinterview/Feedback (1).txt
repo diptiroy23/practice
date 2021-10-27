@@ -1,0 +1,89 @@
+Interview Feedback Form
+
+CANDIDATE NAME	: Shivaditya Katiyar
+INTERVIEWER NAME: Dipti Roy
+INTERVIEW DATE	: 23/10/2020
+
+
+DETAILED INTERVIEW FEEDBACK:
+
+•	For which attributes did you interview the candidate?
+    Problem Solving
+    Front end tech
+    Javascript
+
+•	What questions did you ask?
+1.	DS : maximum sum contiguous array -> write a function to print the max sum
+            max sum contiguous 
+            {-2, -3, 4, -1, -2, 1, 5, -3}
+            Maximum contiguous sum is 7
+2.	Front end tech: What makes react better? explain Virtual DOM?
+3.	Front end tech: How browser understands JSX? Why is Webpack used? What is the purpose of Babel?
+4.  Front end tech: What is the purpose of bind in React classes
+5.  JS : Event loop output & explaination
+            console.log('hello world');
+            setTimeout(function() {
+                console.log('first function');
+            },0);
+
+            Promise.resolve().then(function() {
+                console.log('promise 1')
+            }).then(function() {
+                console.log('promise 1 resolve function');
+            });
+
+            console.log('bye world');
+6.  JS : Scoping ques - what is the output?
+            firstName = 'rahul';
+            lastName = 'roy';
+
+            letsMakeObj = {
+            firstName: 'ronit',
+            lastName: 'roy',
+                printName: function() {
+                    console.log(this.firstName + ' ' + this.lastName);
+            }
+            }
+
+            letsMakeSecondObj = {
+            firstName: 'ronit',
+            lastName: 'roy',
+                printName: () => {
+                    console.log(this.firstName + ' ' + this.lastName);
+            }
+            }
+
+            replicateBehaviour1 = letsMakeObj.printName;
+            replicateBehaviour2 = letsMakeSecondObj.printName;
+            letsMakeObj.printName(); 
+            letsMakeSecondObj.printName(); 
+            replicateBehaviour1() 
+            replicateBehaviour2()
+7.  JS : Implement string function to print it n times
+            "HELLOWORLD".print(count)
+
+            "HELLOWORLD".print(5) -> 
+
+            HELLOWORLD
+            HELLOWORLD
+            HELLOWORLD
+            HELLOWORLD
+            HELLOWORLD
+
+•	What were the candidate’s answers to those questions?
+    1.	able to solve with little thinking
+    2.	MVS & VirtualDOM
+    3.	50% correct answers - missing keywords Webpack resolves dependencies, Babel transpiles react jsx 
+    4.  50% correct answers - understands it should be Implemented for click functions binding, but it is not required for all functions if they in render unless its a click interaction function
+    5.  understands the execution, not aware of micro tasks, not aware of priority of setTimeout & promise
+    6.  correct output & explaination
+    7.  understands Prototype, but not _proto_, and how 'this' takes the string value
+
+•	What were your insights on the candidate based on their answers to your questions?
+    Confident approach towards questions
+
+•	What is your hiring recommendation and reasoning in support of that recommendation?
+    He tried to take up each ques confidently even if he was feeling a bit hesitant in knowing the answers.
+    some questions he did not know 100% correct but knew some of the workings around them,
+    Would recommend him for the next round
+

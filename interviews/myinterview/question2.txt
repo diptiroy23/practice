@@ -1,0 +1,27 @@
+firstName = 'rahul';
+lastName = 'roy';
+
+letsMakeObj = {
+  firstName: 'ronit',
+  lastName: 'roy',
+	printName: function() {
+		console.log(this.firstName + ' ' + this.lastName);
+  }
+}
+
+letsMakeSecondObj = {
+  firstName: 'ronit',
+  lastName: 'roy',
+	printName: () => {
+		console.log(this.firstName + ' ' + this.lastName);
+  }
+}
+
+replicateBehaviour1 = letsMakeObj.printName;
+replicateBehaviour2 = letsMakeSecondObj.printName;
+letsMakeObj.printName(); 
+letsMakeSecondObj.printName(); 
+replicateBehaviour1() 
+replicateBehaviour2()
+
+pretty much guess work

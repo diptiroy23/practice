@@ -1,0 +1,247 @@
+[
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "href": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "frequency": "100%"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "href": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "frequency": "77.1111%"
+  },
+  {
+    "id": "218",
+    "title": "The Skyline Problem",
+    "href": "https://leetcode.com/problems/the-skyline-problem",
+    "difficulty": "Hard",
+    "frequency": "59.1142%"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "href": "https://leetcode.com/problems/sliding-window-maximum",
+    "difficulty": "Hard",
+    "frequency": "78.3104%"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "href": "https://leetcode.com/problems/meeting-rooms-ii",
+    "difficulty": "Medium",
+    "frequency": "79.3523%"
+  },
+  {
+    "id": "264",
+    "title": "Ugly Number II",
+    "href": "https://leetcode.com/problems/ugly-number-ii",
+    "difficulty": "Medium",
+    "frequency": "41.1384%"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "href": "https://leetcode.com/problems/find-median-from-data-stream",
+    "difficulty": "Hard",
+    "frequency": "75.2398%"
+  },
+  {
+    "id": "313",
+    "title": "Super Ugly Number",
+    "href": "https://leetcode.com/problems/super-ugly-number",
+    "difficulty": "Medium",
+    "frequency": "4.69246%"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "href": "https://leetcode.com/problems/top-k-frequent-elements",
+    "difficulty": "Medium",
+    "frequency": "71.2785%"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "href": "https://leetcode.com/problems/design-twitter",
+    "difficulty": "Medium",
+    "frequency": "32.3202%"
+  },
+  {
+    "id": "358",
+    "title": "Rearrange String k Distance Apart",
+    "href": "https://leetcode.com/problems/rearrange-string-k-distance-apart",
+    "difficulty": "Hard",
+    "frequency": "15.3272%"
+  },
+  {
+    "id": "373",
+    "title": "Find K Pairs with Smallest Sums",
+    "href": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "difficulty": "Medium",
+    "frequency": "32.3936%"
+  },
+  {
+    "id": "378",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "href": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Medium",
+    "frequency": "52.3729%"
+  },
+  {
+    "id": "407",
+    "title": "Trapping Rain Water II",
+    "href": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "difficulty": "Hard",
+    "frequency": "56.8716%"
+  },
+  {
+    "id": "451",
+    "title": "Sort Characters By Frequency",
+    "href": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "frequency": "21.4842%"
+  },
+  {
+    "id": "502",
+    "title": "IPO",
+    "href": "https://leetcode.com/problems/ipo",
+    "difficulty": "Hard",
+    "frequency": "38.6126%"
+  },
+  {
+    "id": "659",
+    "title": "Split Array into Consecutive Subsequences",
+    "href": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+    "difficulty": "Medium",
+    "frequency": "35.1912%"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "href": "https://leetcode.com/problems/top-k-frequent-words",
+    "difficulty": "Medium",
+    "frequency": "88.8974%"
+  },
+  {
+    "id": "719",
+    "title": "Find K-th Smallest Pair Distance",
+    "href": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+    "difficulty": "Hard",
+    "frequency": "14.7955%"
+  },
+  {
+    "id": "743",
+    "title": "Network Delay Time",
+    "href": "https://leetcode.com/problems/network-delay-time",
+    "difficulty": "Medium",
+    "frequency": "21.6374%"
+  },
+  {
+    "id": "759",
+    "title": "Employee Free Time",
+    "href": "https://leetcode.com/problems/employee-free-time",
+    "difficulty": "Hard",
+    "frequency": "60.0841%"
+  },
+  {
+    "id": "767",
+    "title": "Reorganize String",
+    "href": "https://leetcode.com/problems/reorganize-string",
+    "difficulty": "Medium",
+    "frequency": "70.5592%"
+  },
+  {
+    "id": "703",
+    "title": "Kth Largest Element in a Stream",
+    "href": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "difficulty": "Easy",
+    "frequency": "44.511%"
+  },
+  {
+    "id": "778",
+    "title": "Swim in Rising Water",
+    "href": "https://leetcode.com/problems/swim-in-rising-water",
+    "difficulty": "Hard",
+    "frequency": "7.43534%"
+  },
+  {
+    "id": "786",
+    "title": "K-th Smallest Prime Fraction",
+    "href": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+    "difficulty": "Hard",
+    "frequency": "8.06389%"
+  },
+  {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "href": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "frequency": "40.0366%"
+  },
+  {
+    "id": "818",
+    "title": "Race Car",
+    "href": "https://leetcode.com/problems/race-car",
+    "difficulty": "Hard",
+    "frequency": "21.8451%"
+  },
+  {
+    "id": "857",
+    "title": "Minimum Cost to Hire K Workers",
+    "href": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+    "difficulty": "Hard",
+    "frequency": "9.54674%"
+  },
+  {
+    "id": "864",
+    "title": "Shortest Path to Get All Keys",
+    "href": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "difficulty": "Hard",
+    "frequency": "32.3589%"
+  },
+  {
+    "id": "871",
+    "title": "Minimum Number of Refueling Stops",
+    "href": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "difficulty": "Hard",
+    "frequency": "58.5144%"
+  },
+  {
+    "id": "882",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "href": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "973",
+    "title": "K Closest Points to Origin",
+    "href": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "frequency": "89.7602%"
+  },
+  {
+    "id": "1046",
+    "title": "Last Stone Weight",
+    "href": "https://leetcode.com/problems/last-stone-weight",
+    "difficulty": "Easy",
+    "frequency": "13.817%"
+  },
+  {
+    "id": "1054",
+    "title": "Distant Barcodes",
+    "href": "https://leetcode.com/problems/distant-barcodes",
+    "difficulty": "Medium",
+    "frequency": "2.69374%"
+  },
+  {
+    "id": "1439",
+    "title": "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+    "href": "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+    "difficulty": "Hard",
+    "frequency": "17.5968%"
+  }
+]

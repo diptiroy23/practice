@@ -1,0 +1,128 @@
+[
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "href": "https://leetcode.com/problems/valid-parentheses",
+    "difficulty": "Easy",
+    "frequency": "4.43589%"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "href": "https://leetcode.com/problems/lru-cache",
+    "difficulty": "Medium",
+    "frequency": "65.8247%"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "href": "https://leetcode.com/problems/reconstruct-itinerary",
+    "difficulty": "Medium",
+    "frequency": "21.135%"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "href": "https://leetcode.com/problems/group-anagrams",
+    "difficulty": "Medium",
+    "frequency": "1.82426%"
+  },
+  {
+    "id": "935",
+    "title": "Knight Dialer",
+    "href": "https://leetcode.com/problems/knight-dialer",
+    "difficulty": "Medium",
+    "frequency": "30.4259%"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "href": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "frequency": "2.62855%"
+  },
+  {
+    "id": "965",
+    "title": "Univalued Binary Tree",
+    "href": "https://leetcode.com/problems/univalued-binary-tree",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "href": "https://leetcode.com/problems/two-sum",
+    "difficulty": "Easy",
+    "frequency": "0.236277%"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "frequency": "3.3899%"
+  },
+  {
+    "id": "974",
+    "title": "Subarray Sums Divisible by K",
+    "href": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "href": "https://leetcode.com/problems/word-break",
+    "difficulty": "Medium",
+    "frequency": "0.480847%"
+  },
+  {
+    "id": "225",
+    "title": "Implement Stack using Queues",
+    "href": "https://leetcode.com/problems/implement-stack-using-queues",
+    "difficulty": "Easy",
+    "frequency": "6.26417%"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "href": "https://leetcode.com/problems/text-justification",
+    "difficulty": "Hard",
+    "frequency": "31.6495%"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "frequency": "0.444614%"
+  },
+  {
+    "id": "532",
+    "title": "K-diff Pairs in an Array",
+    "href": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+    "difficulty": "Medium",
+    "frequency": "0.138299%"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "href": "https://leetcode.com/problems/maximal-square",
+    "difficulty": "Medium",
+    "frequency": "1.14865%"
+  },
+  {
+    "id": "1507",
+    "title": "Reformat Date",
+    "href": "https://leetcode.com/problems/reformat-date",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "href": "https://leetcode.com/problems/longest-common-prefix",
+    "difficulty": "Easy",
+    "frequency": "0.163318%"
+  }
+]

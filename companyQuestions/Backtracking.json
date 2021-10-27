@@ -1,0 +1,408 @@
+[
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "href": "https://leetcode.com/problems/regular-expression-matching",
+    "difficulty": "Hard",
+    "frequency": "91.4227%"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "frequency": "96.9799%"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "href": "https://leetcode.com/problems/generate-parentheses",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "37",
+    "title": "Sudoku Solver",
+    "href": "https://leetcode.com/problems/sudoku-solver",
+    "difficulty": "Hard",
+    "frequency": "71.4474%"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "href": "https://leetcode.com/problems/combination-sum",
+    "difficulty": "Medium",
+    "frequency": "43.7268%"
+  },
+  {
+    "id": "40",
+    "title": "Combination Sum II",
+    "href": "https://leetcode.com/problems/combination-sum-ii",
+    "difficulty": "Medium",
+    "frequency": "45.9889%"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "href": "https://leetcode.com/problems/wildcard-matching",
+    "difficulty": "Hard",
+    "frequency": "62.0595%"
+  },
+  {
+    "id": "46",
+    "title": "Permutations",
+    "href": "https://leetcode.com/problems/permutations",
+    "difficulty": "Medium",
+    "frequency": "96.4157%"
+  },
+  {
+    "id": "47",
+    "title": "Permutations II",
+    "href": "https://leetcode.com/problems/permutations-ii",
+    "difficulty": "Medium",
+    "frequency": "37.235%"
+  },
+  {
+    "id": "51",
+    "title": "N-Queens",
+    "href": "https://leetcode.com/problems/n-queens",
+    "difficulty": "Hard",
+    "frequency": "72.6628%"
+  },
+  {
+    "id": "52",
+    "title": "N-Queens II",
+    "href": "https://leetcode.com/problems/n-queens-ii",
+    "difficulty": "Hard",
+    "frequency": "8.54312%"
+  },
+  {
+    "id": "60",
+    "title": "Permutation Sequence",
+    "href": "https://leetcode.com/problems/permutation-sequence",
+    "difficulty": "Hard",
+    "frequency": "29.5414%"
+  },
+  {
+    "id": "77",
+    "title": "Combinations",
+    "href": "https://leetcode.com/problems/combinations",
+    "difficulty": "Medium",
+    "frequency": "28.3568%"
+  },
+  {
+    "id": "78",
+    "title": "Subsets",
+    "href": "https://leetcode.com/problems/subsets",
+    "difficulty": "Medium",
+    "frequency": "73.5426%"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "href": "https://leetcode.com/problems/word-search",
+    "difficulty": "Medium",
+    "frequency": "95.683%"
+  },
+  {
+    "id": "89",
+    "title": "Gray Code",
+    "href": "https://leetcode.com/problems/gray-code",
+    "difficulty": "Medium",
+    "frequency": "22.2176%"
+  },
+  {
+    "id": "90",
+    "title": "Subsets II",
+    "href": "https://leetcode.com/problems/subsets-ii",
+    "difficulty": "Medium",
+    "frequency": "24.3939%"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "href": "https://leetcode.com/problems/restore-ip-addresses",
+    "difficulty": "Medium",
+    "frequency": "63.6418%"
+  },
+  {
+    "id": "126",
+    "title": "Word Ladder II",
+    "href": "https://leetcode.com/problems/word-ladder-ii",
+    "difficulty": "Hard",
+    "frequency": "68.5833%"
+  },
+  {
+    "id": "131",
+    "title": "Palindrome Partitioning",
+    "href": "https://leetcode.com/problems/palindrome-partitioning",
+    "difficulty": "Medium",
+    "frequency": "76.5566%"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "href": "https://leetcode.com/problems/word-break-ii",
+    "difficulty": "Hard",
+    "frequency": "84.8566%"
+  },
+  {
+    "id": "211",
+    "title": "Design Add and Search Words Data Structure",
+    "href": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "difficulty": "Medium",
+    "frequency": "77.0464%"
+  },
+  {
+    "id": "212",
+    "title": "Word Search II",
+    "href": "https://leetcode.com/problems/word-search-ii",
+    "difficulty": "Hard",
+    "frequency": "71.3326%"
+  },
+  {
+    "id": "216",
+    "title": "Combination Sum III",
+    "href": "https://leetcode.com/problems/combination-sum-iii",
+    "difficulty": "Medium",
+    "frequency": "19.7472%"
+  },
+  {
+    "id": "254",
+    "title": "Factor Combinations",
+    "href": "https://leetcode.com/problems/factor-combinations",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "267",
+    "title": "Palindrome Permutation II",
+    "href": "https://leetcode.com/problems/palindrome-permutation-ii",
+    "difficulty": "Medium",
+    "frequency": "12.0954%"
+  },
+  {
+    "id": "291",
+    "title": "Word Pattern II",
+    "href": "https://leetcode.com/problems/word-pattern-ii",
+    "difficulty": "Hard",
+    "frequency": "10.9441%"
+  },
+  {
+    "id": "294",
+    "title": "Flip Game II",
+    "href": "https://leetcode.com/problems/flip-game-ii",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "306",
+    "title": "Additive Number",
+    "href": "https://leetcode.com/problems/additive-number",
+    "difficulty": "Medium",
+    "frequency": "4.59056%"
+  },
+  {
+    "id": "320",
+    "title": "Generalized Abbreviation",
+    "href": "https://leetcode.com/problems/generalized-abbreviation",
+    "difficulty": "Medium",
+    "frequency": "18.5653%"
+  },
+  {
+    "id": "351",
+    "title": "Android Unlock Patterns",
+    "href": "https://leetcode.com/problems/android-unlock-patterns",
+    "difficulty": "Medium",
+    "frequency": "43.9282%"
+  },
+  {
+    "id": "357",
+    "title": "Count Numbers with Unique Digits",
+    "href": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+    "difficulty": "Medium",
+    "frequency": "15.2135%"
+  },
+  {
+    "id": "401",
+    "title": "Binary Watch",
+    "href": "https://leetcode.com/problems/binary-watch",
+    "difficulty": "Easy",
+    "frequency": "21.1505%"
+  },
+  {
+    "id": "411",
+    "title": "Minimum Unique Word Abbreviation",
+    "href": "https://leetcode.com/problems/minimum-unique-word-abbreviation",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "425",
+    "title": "Word Squares",
+    "href": "https://leetcode.com/problems/word-squares",
+    "difficulty": "Hard",
+    "frequency": "6.39035%"
+  },
+  {
+    "id": "526",
+    "title": "Beautiful Arrangement",
+    "href": "https://leetcode.com/problems/beautiful-arrangement",
+    "difficulty": "Medium",
+    "frequency": "57.7628%"
+  },
+  {
+    "id": "691",
+    "title": "Stickers to Spell Word",
+    "href": "https://leetcode.com/problems/stickers-to-spell-word",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "784",
+    "title": "Letter Case Permutation",
+    "href": "https://leetcode.com/problems/letter-case-permutation",
+    "difficulty": "Medium",
+    "frequency": "23.1533%"
+  },
+  {
+    "id": "797",
+    "title": "All Paths From Source to Target",
+    "href": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "frequency": "37.397%"
+  },
+  {
+    "id": "842",
+    "title": "Split Array into Fibonacci Sequence",
+    "href": "https://leetcode.com/problems/split-array-into-fibonacci-sequence",
+    "difficulty": "Medium",
+    "frequency": "20.3511%"
+  },
+  {
+    "id": "980",
+    "title": "Unique Paths III",
+    "href": "https://leetcode.com/problems/unique-paths-iii",
+    "difficulty": "Hard",
+    "frequency": "45.5381%"
+  },
+  {
+    "id": "996",
+    "title": "Number of Squareful Arrays",
+    "href": "https://leetcode.com/problems/number-of-squareful-arrays",
+    "difficulty": "Hard",
+    "frequency": "19.0552%"
+  },
+  {
+    "id": "1066",
+    "title": "Campus Bikes II",
+    "href": "https://leetcode.com/problems/campus-bikes-ii",
+    "difficulty": "Medium",
+    "frequency": "18.1743%"
+  },
+  {
+    "id": "1087",
+    "title": "Brace Expansion",
+    "href": "https://leetcode.com/problems/brace-expansion",
+    "difficulty": "Medium",
+    "frequency": "13.5003%"
+  },
+  {
+    "id": "1088",
+    "title": "Confusing Number II",
+    "href": "https://leetcode.com/problems/confusing-number-ii",
+    "difficulty": "Hard",
+    "frequency": "28.5187%"
+  },
+  {
+    "id": "1215",
+    "title": "Stepping Numbers",
+    "href": "https://leetcode.com/problems/stepping-numbers",
+    "difficulty": "Medium",
+    "frequency": "9.10978%"
+  },
+  {
+    "id": "1079",
+    "title": "Letter Tile Possibilities",
+    "href": "https://leetcode.com/problems/letter-tile-possibilities",
+    "difficulty": "Medium",
+    "frequency": "19.5716%"
+  },
+  {
+    "id": "1258",
+    "title": "Synonymous Sentences",
+    "href": "https://leetcode.com/problems/synonymous-sentences",
+    "difficulty": "Medium",
+    "frequency": "22.0827%"
+  },
+  {
+    "id": "1286",
+    "title": "Iterator for Combination",
+    "href": "https://leetcode.com/problems/iterator-for-combination",
+    "difficulty": "Medium",
+    "frequency": "10.2036%"
+  },
+  {
+    "id": "1291",
+    "title": "Sequential Digits",
+    "href": "https://leetcode.com/problems/sequential-digits",
+    "difficulty": "Medium",
+    "frequency": "2.92056%"
+  },
+  {
+    "id": "1219",
+    "title": "Path with Maximum Gold",
+    "href": "https://leetcode.com/problems/path-with-maximum-gold",
+    "difficulty": "Medium",
+    "frequency": "35.8075%"
+  },
+  {
+    "id": "1239",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "href": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "difficulty": "Medium",
+    "frequency": "49.1792%"
+  },
+  {
+    "id": "1240",
+    "title": "Tiling a Rectangle with the Fewest Squares",
+    "href": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares",
+    "difficulty": "Hard",
+    "frequency": "49.9526%"
+  },
+  {
+    "id": "1307",
+    "title": "Verbal Arithmetic Puzzle",
+    "href": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "difficulty": "Hard",
+    "frequency": "16.2785%"
+  },
+  {
+    "id": "1415",
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "href": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "difficulty": "Medium",
+    "frequency": "2.27392%"
+  },
+  {
+    "id": "1467",
+    "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "href": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+    "difficulty": "Hard",
+    "frequency": "17.7128%"
+  },
+  {
+    "id": "1593",
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "href": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings",
+    "difficulty": "Medium",
+    "frequency": "0.697421%"
+  },
+  {
+    "id": "1617",
+    "title": "Count Subtrees With Max Distance Between Cities",
+    "href": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  }
+]

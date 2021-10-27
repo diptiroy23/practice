@@ -1,0 +1,41 @@
+Interview Questions
+Technical test (Hackerrank, 90 minutes).
+
+It covers the basics of Javascript, HTML, CSS, Problem Solving. It has 18 questions and two coding challenges.
+Answer Question
+Recruiter phone call (20 minutes).
+1 Answer
+Technical Interview (Hackerrank, 60 minutes)
+Two interviewers gave me two tasks (frontend and backend).
+
+Frontend task:
+Fetch & render list + same, but with user input.
+
+Backend task:
+Given the array of hotels (hotel_id, name) and an array of reviews (hotel_id, score). Return array of hotels with an average review score. Calculate time complexity.
+1 Answer
+F2F: 1 - Backend + System Design (Two interviewers)
+
+Coding challenge (30 minutes): Create a function to calculate the next state in the Game Of Life (rules provided).
+
+System Design (30 minutes):
+Deploy Game of Life (features: calculate next state, show history, user_id)
+Follow up: Added a lot of users
+Follow up: How to store/process input?
+Follow up: Sharding, Load Balancers, LB metrics
+1 Answer
+F2F: 2 - Frontend (Two interviewers)
+
+Create a function to fetch and render an array of stocks (stock_id, stock_name, price).
+
+Follow up questions:
+
+- Automatically refresh data (your solution must be "user-friendly". ex. re-render every 3 seconds)
+
+- Create an additional list of "3 Favorite stocks" and link it to the bottom of the page. (use "div", use position: fixed; bottom: 0). On this step, they asked a lot about CSS Position (absolute, fixed, etc)
+
+- What if there are 10000+ stocks? Should we render them all? Should we re-fetch them all? (Answer: re-fetch/re-render only first N of stocks + re-fetch/re-render favorite stocks)
+1 Answer
+F2F: 3 - Behavioural (Two interviewers)
+Just regular behavioral interview. I agreed with feedback:
+1 Answer

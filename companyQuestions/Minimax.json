@@ -1,0 +1,58 @@
+[
+  {
+    "id": "292",
+    "title": "Nim Game",
+    "href": "https://leetcode.com/problems/nim-game",
+    "difficulty": "Easy",
+    "frequency": "31.9632%"
+  },
+  {
+    "id": "294",
+    "title": "Flip Game II",
+    "href": "https://leetcode.com/problems/flip-game-ii",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "375",
+    "title": "Guess Number Higher or Lower II",
+    "href": "https://leetcode.com/problems/guess-number-higher-or-lower-ii",
+    "difficulty": "Medium",
+    "frequency": "51.2762%"
+  },
+  {
+    "id": "464",
+    "title": "Can I Win",
+    "href": "https://leetcode.com/problems/can-i-win",
+    "difficulty": "Medium",
+    "frequency": "29.5854%"
+  },
+  {
+    "id": "486",
+    "title": "Predict the Winner",
+    "href": "https://leetcode.com/problems/predict-the-winner",
+    "difficulty": "Medium",
+    "frequency": "25.5533%"
+  },
+  {
+    "id": "843",
+    "title": "Guess the Word",
+    "href": "https://leetcode.com/problems/guess-the-word",
+    "difficulty": "Hard",
+    "frequency": "100%"
+  },
+  {
+    "id": "877",
+    "title": "Stone Game",
+    "href": "https://leetcode.com/problems/stone-game",
+    "difficulty": "Medium",
+    "frequency": "41.8178%"
+  },
+  {
+    "id": "913",
+    "title": "Cat and Mouse",
+    "href": "https://leetcode.com/problems/cat-and-mouse",
+    "difficulty": "Hard",
+    "frequency": "74.4467%"
+  }
+]

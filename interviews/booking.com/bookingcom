@@ -1,0 +1,17 @@
+Create an HTML form, and a generic validation function
+    1. React : https://github.com/learnetto/react-form-validation-demo/tree/master/src
+    2. vanillaJS : https://www.javatpoint.com/javascript-form-validation
+    3. in built : https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+
+Fetch & render list + same, but with user input.
+    1. https://blog.logrocket.com/4-ways-to-render-large-lists-in-react/
+    2. implement debounce autosuggest
+
+tooltip
+    1. https://medium.com/@jsmuster/building-a-tooltip-component-with-react-2de14761e02#:~:text=Create%20a%20React%20tooltip%20component,show%20tooltip%20to%20the%20right.
+
+Create a tooltip component which can display a tooltip for N nodes on a page
+
+Develop a dropdown menu with hover intention of 300ms
+
+Develop the data structure and javascript/html code for a table with stock info that refreshes each 5 min

@@ -1,0 +1,9 @@
+render list of objects e.g., var rooms = [{'name': 'abc', 'facilities': ['f1', 'f2'], 'price': 12}, {'name': 'def', 'facilities': ['f4', 'f2'], 'price': 5}];
+
+tbody was given, you need to call the already implemented renderHotel by passing each object from the array.
+
+also based on selection of number of room, calculate the total price
+
+FE: you have a form with search field, when pressed on submit - go to javascript and get list of hotels (by this search). then present it in html with ul+li tags.
+
+Back-end: you have lit of all hotels ( id, name), and list of reviews of all hotels (id, review,score). You need to find all hotels that their average score is greater than given value. What is the complexity of that solution.

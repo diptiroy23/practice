@@ -1,0 +1,20 @@
+console.log('hello world');
+setTimeout(function() {
+	console.log('first function');
+},0);
+
+Promise.resolve().then(function() {
+	console.log('promise 1')
+}).then(function() {
+	console.log('promise 1 resolve function');
+});
+
+console.log('bye world');
+
+Follow up ques ->
+1. explain how stacks 
+
+// wrong output
+// cannot explain (event loop) how this works in browser 
+
+

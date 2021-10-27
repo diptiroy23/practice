@@ -1,0 +1,128 @@
+[
+  {
+    "id": "135",
+    "title": "Candy",
+    "href": "https://leetcode.com/problems/candy",
+    "difficulty": "Hard",
+    "frequency": "23.349%"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "href": "https://leetcode.com/problems/container-with-most-water",
+    "difficulty": "Medium",
+    "frequency": "12.1968%"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "href": "https://leetcode.com/problems/trapping-rain-water",
+    "difficulty": "Hard",
+    "frequency": "26.2155%"
+  },
+  {
+    "id": "269",
+    "title": "Alien Dictionary",
+    "href": "https://leetcode.com/problems/alien-dictionary",
+    "difficulty": "Hard",
+    "frequency": "9.9718%"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "href": "https://leetcode.com/problems/next-permutation",
+    "difficulty": "Medium",
+    "frequency": "7.03527%"
+  },
+  {
+    "id": "967",
+    "title": "Numbers With Same Consecutive Differences",
+    "href": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "982",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "href": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "href": "https://leetcode.com/problems/regular-expression-matching",
+    "difficulty": "Hard",
+    "frequency": "5.81278%"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "href": "https://leetcode.com/problems/valid-parentheses",
+    "difficulty": "Easy",
+    "frequency": "1.62404%"
+  },
+  {
+    "id": "741",
+    "title": "Cherry Pickup",
+    "href": "https://leetcode.com/problems/cherry-pickup",
+    "difficulty": "Hard",
+    "frequency": "69.7923%"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "href": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "frequency": "4.00891%"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "href": "https://leetcode.com/problems/min-stack",
+    "difficulty": "Easy",
+    "frequency": "0.974897%"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "href": "https://leetcode.com/problems/rotting-oranges",
+    "difficulty": "Medium",
+    "frequency": "4.15775%"
+  },
+  {
+    "id": "871",
+    "title": "Minimum Number of Refueling Stops",
+    "href": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "difficulty": "Hard",
+    "frequency": "100%"
+  },
+  {
+    "id": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "href": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "difficulty": "Medium",
+    "frequency": "8.8208%"
+  },
+  {
+    "id": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "2.57885%"
+  },
+  {
+    "id": "675",
+    "title": "Cut Off Trees for Golf Event",
+    "href": "https://leetcode.com/problems/cut-off-trees-for-golf-event",
+    "difficulty": "Hard",
+    "frequency": "24.3329%"
+  },
+  {
+    "id": "431",
+    "title": "Encode N-ary Tree to Binary Tree",
+    "href": "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree",
+    "difficulty": "Hard",
+    "frequency": "56.4232%"
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "href": "https://leetcode.com/problems/valid-parentheses",
+    "difficulty": "Easy",
+    "frequency": "88.8114%"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "href": "https://leetcode.com/problems/trapping-rain-water",
+    "difficulty": "Hard",
+    "frequency": "100%"
+  },
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "href": "https://leetcode.com/problems/simplify-path",
+    "difficulty": "Medium",
+    "frequency": "47.6932%"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "href": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "frequency": "62.2718%"
+  },
+  {
+    "id": "85",
+    "title": "Maximal Rectangle",
+    "href": "https://leetcode.com/problems/maximal-rectangle",
+    "difficulty": "Hard",
+    "frequency": "74.2812%"
+  },
+  {
+    "id": "94",
+    "title": "Binary Tree Inorder Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "difficulty": "Medium",
+    "frequency": "34.7244%"
+  },
+  {
+    "id": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "frequency": "53.0791%"
+  },
+  {
+    "id": "144",
+    "title": "Binary Tree Preorder Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+    "difficulty": "Medium",
+    "frequency": "7.91763%"
+  },
+  {
+    "id": "145",
+    "title": "Binary Tree Postorder Traversal",
+    "href": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+    "difficulty": "Medium",
+    "frequency": "17.7232%"
+  },
+  {
+    "id": "150",
+    "title": "Evaluate Reverse Polish Notation",
+    "href": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "frequency": "34.8014%"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "href": "https://leetcode.com/problems/min-stack",
+    "difficulty": "Easy",
+    "frequency": "57.4917%"
+  },
+  {
+    "id": "173",
+    "title": "Binary Search Tree Iterator",
+    "href": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "frequency": "50.0556%"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "href": "https://leetcode.com/problems/basic-calculator",
+    "difficulty": "Hard",
+    "frequency": "63.0926%"
+  },
+  {
+    "id": "225",
+    "title": "Implement Stack using Queues",
+    "href": "https://leetcode.com/problems/implement-stack-using-queues",
+    "difficulty": "Easy",
+    "frequency": "11.2935%"
+  },
+  {
+    "id": "232",
+    "title": "Implement Queue using Stacks",
+    "href": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "frequency": "27.8724%"
+  },
+  {
+    "id": "255",
+    "title": "Verify Preorder Sequence in Binary Search Tree",
+    "href": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+    "difficulty": "Medium",
+    "frequency": "4.42713%"
+  },
+  {
+    "id": "272",
+    "title": "Closest Binary Search Tree Value II",
+    "href": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "difficulty": "Hard",
+    "frequency": "1.30301%"
+  },
+  {
+    "id": "316",
+    "title": "Remove Duplicate Letters",
+    "href": "https://leetcode.com/problems/remove-duplicate-letters",
+    "difficulty": "Medium",
+    "frequency": "9.92489%"
+  },
+  {
+    "id": "331",
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "href": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "href": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "difficulty": "Medium",
+    "frequency": "46.9638%"
+  },
+  {
+    "id": "385",
+    "title": "Mini Parser",
+    "href": "https://leetcode.com/problems/mini-parser",
+    "difficulty": "Medium",
+    "frequency": "7.35509%"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "href": "https://leetcode.com/problems/decode-string",
+    "difficulty": "Medium",
+    "frequency": "78.5206%"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "href": "https://leetcode.com/problems/remove-k-digits",
+    "difficulty": "Medium",
+    "frequency": "45.1526%"
+  },
+  {
+    "id": "439",
+    "title": "Ternary Expression Parser",
+    "href": "https://leetcode.com/problems/ternary-expression-parser",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "456",
+    "title": "132 Pattern",
+    "href": "https://leetcode.com/problems/132-pattern",
+    "difficulty": "Medium",
+    "frequency": "5.56127%"
+  },
+  {
+    "id": "496",
+    "title": "Next Greater Element I",
+    "href": "https://leetcode.com/problems/next-greater-element-i",
+    "difficulty": "Easy",
+    "frequency": "38.0517%"
+  },
+  {
+    "id": "503",
+    "title": "Next Greater Element II",
+    "href": "https://leetcode.com/problems/next-greater-element-ii",
+    "difficulty": "Medium",
+    "frequency": "40.7417%"
+  },
+  {
+    "id": "591",
+    "title": "Tag Validator",
+    "href": "https://leetcode.com/problems/tag-validator",
+    "difficulty": "Hard",
+    "frequency": "27.4307%"
+  },
+  {
+    "id": "636",
+    "title": "Exclusive Time of Functions",
+    "href": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "difficulty": "Medium",
+    "frequency": "52.128%"
+  },
+  {
+    "id": "682",
+    "title": "Baseball Game",
+    "href": "https://leetcode.com/problems/baseball-game",
+    "difficulty": "Easy",
+    "frequency": "30.1676%"
+  },
+  {
+    "id": "726",
+    "title": "Number of Atoms",
+    "href": "https://leetcode.com/problems/number-of-atoms",
+    "difficulty": "Hard",
+    "frequency": "21.5219%"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "href": "https://leetcode.com/problems/asteroid-collision",
+    "difficulty": "Medium",
+    "frequency": "14.4817%"
+  },
+  {
+    "id": "739",
+    "title": "Daily Temperatures",
+    "href": "https://leetcode.com/problems/daily-temperatures",
+    "difficulty": "Medium",
+    "frequency": "55.829%"
+  },
+  {
+    "id": "770",
+    "title": "Basic Calculator IV",
+    "href": "https://leetcode.com/problems/basic-calculator-iv",
+    "difficulty": "Hard",
+    "frequency": "48.6032%"
+  },
+  {
+    "id": "772",
+    "title": "Basic Calculator III",
+    "href": "https://leetcode.com/problems/basic-calculator-iii",
+    "difficulty": "Hard",
+    "frequency": "42.1744%"
+  },
+  {
+    "id": "844",
+    "title": "Backspace String Compare",
+    "href": "https://leetcode.com/problems/backspace-string-compare",
+    "difficulty": "Easy",
+    "frequency": "35.4904%"
+  },
+  {
+    "id": "856",
+    "title": "Score of Parentheses",
+    "href": "https://leetcode.com/problems/score-of-parentheses",
+    "difficulty": "Medium",
+    "frequency": "21.1147%"
+  },
+  {
+    "id": "880",
+    "title": "Decoded String at Index",
+    "href": "https://leetcode.com/problems/decoded-string-at-index",
+    "difficulty": "Medium",
+    "frequency": "1.22995%"
+  },
+  {
+    "id": "895",
+    "title": "Maximum Frequency Stack",
+    "href": "https://leetcode.com/problems/maximum-frequency-stack",
+    "difficulty": "Hard",
+    "frequency": "20.0745%"
+  },
+  {
+    "id": "901",
+    "title": "Online Stock Span",
+    "href": "https://leetcode.com/problems/online-stock-span",
+    "difficulty": "Medium",
+    "frequency": "38.9027%"
+  },
+  {
+    "id": "907",
+    "title": "Sum of Subarray Minimums",
+    "href": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "difficulty": "Medium",
+    "frequency": "42.2317%"
+  },
+  {
+    "id": "921",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "href": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "frequency": "19.5979%"
+  },
+  {
+    "id": "946",
+    "title": "Validate Stack Sequences",
+    "href": "https://leetcode.com/problems/validate-stack-sequences",
+    "difficulty": "Medium",
+    "frequency": "39.5102%"
+  },
+  {
+    "id": "975",
+    "title": "Odd Even Jump",
+    "href": "https://leetcode.com/problems/odd-even-jump",
+    "difficulty": "Hard",
+    "frequency": "0.808992%"
+  },
+  {
+    "id": "1003",
+    "title": "Check If Word Is Valid After Substitutions",
+    "href": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions",
+    "difficulty": "Medium",
+    "frequency": "1.25154%"
+  },
+  {
+    "id": "1063",
+    "title": "Number of Valid Subarrays",
+    "href": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1019",
+    "title": "Next Greater Node In Linked List",
+    "href": "https://leetcode.com/problems/next-greater-node-in-linked-list",
+    "difficulty": "Medium",
+    "frequency": "24.3954%"
+  },
+  {
+    "id": "1021",
+    "title": "Remove Outermost Parentheses",
+    "href": "https://leetcode.com/problems/remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "frequency": "9.48844%"
+  },
+  {
+    "id": "1047",
+    "title": "Remove All Adjacent Duplicates In String",
+    "href": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "frequency": "30.2624%"
+  },
+  {
+    "id": "1081",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "href": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "frequency": "6.3691%"
+  },
+  {
+    "id": "1124",
+    "title": "Longest Well-Performing Interval",
+    "href": "https://leetcode.com/problems/longest-well-performing-interval",
+    "difficulty": "Medium",
+    "frequency": "12.287%"
+  },
+  {
+    "id": "1130",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "href": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "difficulty": "Medium",
+    "frequency": "43.375%"
+  },
+  {
+    "id": "1190",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "href": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "difficulty": "Medium",
+    "frequency": "15.8839%"
+  },
+  {
+    "id": "1209",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "href": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "difficulty": "Medium",
+    "frequency": "48.554%"
+  },
+  {
+    "id": "1249",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "href": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "difficulty": "Medium",
+    "frequency": "79.805%"
+  },
+  {
+    "id": "1381",
+    "title": "Design a Stack With Increment Operation",
+    "href": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "difficulty": "Medium",
+    "frequency": "31.5742%"
+  },
+  {
+    "id": "1410",
+    "title": "HTML Entity Parser",
+    "href": "https://leetcode.com/problems/html-entity-parser",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1441",
+    "title": "Build an Array With Stack Operations",
+    "href": "https://leetcode.com/problems/build-an-array-with-stack-operations",
+    "difficulty": "Easy",
+    "frequency": "7.84933%"
+  },
+  {
+    "id": "1541",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "href": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+    "difficulty": "Medium",
+    "frequency": "1.19558%"
+  },
+  {
+    "id": "1544",
+    "title": "Make The String Great",
+    "href": "https://leetcode.com/problems/make-the-string-great",
+    "difficulty": "Easy",
+    "frequency": "0.510347%"
+  },
+  {
+    "id": "1598",
+    "title": "Crawler Log Folder",
+    "href": "https://leetcode.com/problems/crawler-log-folder",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  }
+]

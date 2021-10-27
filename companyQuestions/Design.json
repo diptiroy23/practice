@@ -1,0 +1,401 @@
+[
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "href": "https://leetcode.com/problems/lru-cache",
+    "difficulty": "Medium",
+    "frequency": "100%"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "href": "https://leetcode.com/problems/min-stack",
+    "difficulty": "Easy",
+    "frequency": "75.608%"
+  },
+  {
+    "id": "170",
+    "title": "Two Sum III - Data structure design",
+    "href": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+    "difficulty": "Easy",
+    "frequency": "0.217067%"
+  },
+  {
+    "id": "173",
+    "title": "Binary Search Tree Iterator",
+    "href": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "frequency": "65.8287%"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "href": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "difficulty": "Medium",
+    "frequency": "49.4297%"
+  },
+  {
+    "id": "211",
+    "title": "Design Add and Search Words Data Structure",
+    "href": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "difficulty": "Medium",
+    "frequency": "76.6253%"
+  },
+  {
+    "id": "225",
+    "title": "Implement Stack using Queues",
+    "href": "https://leetcode.com/problems/implement-stack-using-queues",
+    "difficulty": "Easy",
+    "frequency": "14.8522%"
+  },
+  {
+    "id": "232",
+    "title": "Implement Queue using Stacks",
+    "href": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "frequency": "36.6553%"
+  },
+  {
+    "id": "244",
+    "title": "Shortest Word Distance II",
+    "href": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "difficulty": "Medium",
+    "frequency": "15.2052%"
+  },
+  {
+    "id": "251",
+    "title": "Flatten 2D Vector",
+    "href": "https://leetcode.com/problems/flatten-2d-vector",
+    "difficulty": "Medium",
+    "frequency": "13.0798%"
+  },
+  {
+    "id": "281",
+    "title": "Zigzag Iterator",
+    "href": "https://leetcode.com/problems/zigzag-iterator",
+    "difficulty": "Medium",
+    "frequency": "20.9243%"
+  },
+  {
+    "id": "284",
+    "title": "Peeking Iterator",
+    "href": "https://leetcode.com/problems/peeking-iterator",
+    "difficulty": "Medium",
+    "frequency": "36.1407%"
+  },
+  {
+    "id": "288",
+    "title": "Unique Word Abbreviation",
+    "href": "https://leetcode.com/problems/unique-word-abbreviation",
+    "difficulty": "Medium",
+    "frequency": "2.03982%"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "href": "https://leetcode.com/problems/find-median-from-data-stream",
+    "difficulty": "Hard",
+    "frequency": "87.9847%"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "href": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "frequency": "85.1949%"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "href": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "difficulty": "Medium",
+    "frequency": "61.7627%"
+  },
+  {
+    "id": "346",
+    "title": "Moving Average from Data Stream",
+    "href": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "difficulty": "Easy",
+    "frequency": "42.4392%"
+  },
+  {
+    "id": "348",
+    "title": "Design Tic-Tac-Toe",
+    "href": "https://leetcode.com/problems/design-tic-tac-toe",
+    "difficulty": "Medium",
+    "frequency": "68.2502%"
+  },
+  {
+    "id": "353",
+    "title": "Design Snake Game",
+    "href": "https://leetcode.com/problems/design-snake-game",
+    "difficulty": "Medium",
+    "frequency": "51.6898%"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "href": "https://leetcode.com/problems/design-twitter",
+    "difficulty": "Medium",
+    "frequency": "36.0339%"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "href": "https://leetcode.com/problems/logger-rate-limiter",
+    "difficulty": "Easy",
+    "frequency": "56.3805%"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "href": "https://leetcode.com/problems/design-hit-counter",
+    "difficulty": "Medium",
+    "frequency": "70.0464%"
+  },
+  {
+    "id": "379",
+    "title": "Design Phone Directory",
+    "href": "https://leetcode.com/problems/design-phone-directory",
+    "difficulty": "Medium",
+    "frequency": "7.04902%"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "frequency": "94.4384%"
+  },
+  {
+    "id": "381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "href": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "difficulty": "Hard",
+    "frequency": "30.2526%"
+  },
+  {
+    "id": "432",
+    "title": "All O`one Data Structure",
+    "href": "https://leetcode.com/problems/all-oone-data-structure",
+    "difficulty": "Hard",
+    "frequency": "44.3879%"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "href": "https://leetcode.com/problems/lfu-cache",
+    "difficulty": "Hard",
+    "frequency": "82.9417%"
+  },
+  {
+    "id": "588",
+    "title": "Design In-Memory File System",
+    "href": "https://leetcode.com/problems/design-in-memory-file-system",
+    "difficulty": "Hard",
+    "frequency": "88.9225%"
+  },
+  {
+    "id": "604",
+    "title": "Design Compressed String Iterator",
+    "href": "https://leetcode.com/problems/design-compressed-string-iterator",
+    "difficulty": "Easy",
+    "frequency": "0%"
+  },
+  {
+    "id": "631",
+    "title": "Design Excel Sum Formula",
+    "href": "https://leetcode.com/problems/design-excel-sum-formula",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "635",
+    "title": "Design Log Storage System",
+    "href": "https://leetcode.com/problems/design-log-storage-system",
+    "difficulty": "Medium",
+    "frequency": "17.954%"
+  },
+  {
+    "id": "642",
+    "title": "Design Search Autocomplete System",
+    "href": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "difficulty": "Hard",
+    "frequency": "51.5054%"
+  },
+  {
+    "id": "716",
+    "title": "Max Stack",
+    "href": "https://leetcode.com/problems/max-stack",
+    "difficulty": "Easy",
+    "frequency": "34.3174%"
+  },
+  {
+    "id": "703",
+    "title": "Kth Largest Element in a Stream",
+    "href": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "difficulty": "Easy",
+    "frequency": "49.6256%"
+  },
+  {
+    "id": "705",
+    "title": "Design HashSet",
+    "href": "https://leetcode.com/problems/design-hashset",
+    "difficulty": "Easy",
+    "frequency": "4.04734%"
+  },
+  {
+    "id": "706",
+    "title": "Design HashMap",
+    "href": "https://leetcode.com/problems/design-hashmap",
+    "difficulty": "Easy",
+    "frequency": "79.5832%"
+  },
+  {
+    "id": "707",
+    "title": "Design Linked List",
+    "href": "https://leetcode.com/problems/design-linked-list",
+    "difficulty": "Medium",
+    "frequency": "14.003%"
+  },
+  {
+    "id": "641",
+    "title": "Design Circular Deque",
+    "href": "https://leetcode.com/problems/design-circular-deque",
+    "difficulty": "Medium",
+    "frequency": "3.89015%"
+  },
+  {
+    "id": "622",
+    "title": "Design Circular Queue",
+    "href": "https://leetcode.com/problems/design-circular-queue",
+    "difficulty": "Medium",
+    "frequency": "48.6219%"
+  },
+  {
+    "id": "1166",
+    "title": "Design File System",
+    "href": "https://leetcode.com/problems/design-file-system",
+    "difficulty": "Medium",
+    "frequency": "28.1477%"
+  },
+  {
+    "id": "1244",
+    "title": "Design A Leaderboard",
+    "href": "https://leetcode.com/problems/design-a-leaderboard",
+    "difficulty": "Medium",
+    "frequency": "40.0957%"
+  },
+  {
+    "id": "1286",
+    "title": "Iterator for Combination",
+    "href": "https://leetcode.com/problems/iterator-for-combination",
+    "difficulty": "Medium",
+    "frequency": "9.62432%"
+  },
+  {
+    "id": "1172",
+    "title": "Dinner Plate Stacks",
+    "href": "https://leetcode.com/problems/dinner-plate-stacks",
+    "difficulty": "Hard",
+    "frequency": "16.2827%"
+  },
+  {
+    "id": "1206",
+    "title": "Design Skiplist",
+    "href": "https://leetcode.com/problems/design-skiplist",
+    "difficulty": "Hard",
+    "frequency": "15.4388%"
+  },
+  {
+    "id": "1429",
+    "title": "First Unique Number",
+    "href": "https://leetcode.com/problems/first-unique-number",
+    "difficulty": "Medium",
+    "frequency": "25.8496%"
+  },
+  {
+    "id": "1357",
+    "title": "Apply Discount Every n Orders",
+    "href": "https://leetcode.com/problems/apply-discount-every-n-orders",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1348",
+    "title": "Tweet Counts Per Frequency",
+    "href": "https://leetcode.com/problems/tweet-counts-per-frequency",
+    "difficulty": "Medium",
+    "frequency": "25.9728%"
+  },
+  {
+    "id": "1352",
+    "title": "Product of the Last K Numbers",
+    "href": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "difficulty": "Medium",
+    "frequency": "7.3654%"
+  },
+  {
+    "id": "1381",
+    "title": "Design a Stack With Increment Operation",
+    "href": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "difficulty": "Medium",
+    "frequency": "41.5236%"
+  },
+  {
+    "id": "1396",
+    "title": "Design Underground System",
+    "href": "https://leetcode.com/problems/design-underground-system",
+    "difficulty": "Medium",
+    "frequency": "86.7593%"
+  },
+  {
+    "id": "1472",
+    "title": "Design Browser History",
+    "href": "https://leetcode.com/problems/design-browser-history",
+    "difficulty": "Medium",
+    "frequency": "45.459%"
+  },
+  {
+    "id": "1500",
+    "title": "Design a File Sharing System",
+    "href": "https://leetcode.com/problems/design-a-file-sharing-system",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1603",
+    "title": "Design Parking System",
+    "href": "https://leetcode.com/problems/design-parking-system",
+    "difficulty": "Easy",
+    "frequency": "0.244744%"
+  },
+  {
+    "id": "1600",
+    "title": "Throne Inheritance",
+    "href": "https://leetcode.com/problems/throne-inheritance",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1622",
+    "title": "Fancy Sequence",
+    "href": "https://leetcode.com/problems/fancy-sequence",
+    "difficulty": "Hard",
+    "frequency": "0%"
+  },
+  {
+    "id": "1586",
+    "title": "Binary Search Tree Iterator II",
+    "href": "https://leetcode.com/problems/binary-search-tree-iterator-ii",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  },
+  {
+    "id": "1628",
+    "title": "Design an Expression Tree With Evaluate Function",
+    "href": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function",
+    "difficulty": "Medium",
+    "frequency": "0%"
+  }
+]
